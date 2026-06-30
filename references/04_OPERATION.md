@@ -219,7 +219,7 @@ The gear shifter lever enables you to get the required speed (**9 Forward and 9 
 
 ## 4.11 Shuttle Lever
 
-The shuttle lever has two positions, viz. **forward** and **back**, for moving the tractor in forward as well as reverse without gear shifting position. (The Shuttle Lever figure on p.55 shows positions **F / N / R**.)
+The shuttle lever has two positions, viz. **forward** and **back**, for moving the tractor in forward as well as reverse without gear shifting position. (The Shuttle Lever figure shows positions **F / N / R**.)
 
 ---
 
@@ -459,7 +459,7 @@ On any tyre there is some marking which represents its size & capacity, e.g. tyr
 | **Insufficient Pressure** | Reduced adherence through lack of tyre grip. Deterioration of tyre casing by traction forces. |
 | **Over Pressure** | Reduced grip due to lack of cleaning. Deterioration due to compacted ground. |
 
-*(Diagrams on p.62 show three tyre cross-sections: Correct Pressure — even tread contact; Insufficient Pressure — bulged sidewall / worn shoulders; Over Pressure — domed tread / worn centre.)*
+*(Diagrams show three tyre cross-sections: Correct Pressure — even tread contact; Insufficient Pressure — bulged sidewall / worn shoulders; Over Pressure — domed tread / worn centre.)*
 
 ---
 
@@ -493,7 +493,7 @@ The following table lists tyre combinations with load capacity and permissible m
 | 7 | Front (1) | 23x8.5-12 12 PR SPHD | 840 | 1680 | 5580 | 248 |
 | 7 | Rear (2) | 33x15.5-16.5 12 PR SPHD | 1950 | 3900 | 5580 | 248 |
 
-*Column-header callouts in the source figure (p.63): 1 = Tyre Combination, 2 = Axle No., 3 = Tyre Dimensions including load capacity index and speed category symbol, 4 = Tyre Load rating per tyre [kg], 5 = Maximum permissible mass per axle [kg], 6 = Maximum permissible mass of the vehicle [kg], 7 = Max. permissible vertical load on coupling point [kg].*
+*Column-header callouts in the source figure: 1 = Tyre Combination, 2 = Axle No., 3 = Tyre Dimensions including load capacity index and speed category symbol, 4 = Tyre Load rating per tyre [kg], 5 = Maximum permissible mass per axle [kg], 6 = Maximum permissible mass of the vehicle [kg], 7 = Max. permissible vertical load on coupling point [kg].*
 
 ---
 

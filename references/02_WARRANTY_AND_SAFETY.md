@@ -2,7 +2,7 @@
 
 > **Source:** Solis 26 Operator Manual (International Tractors Ltd / Sonalika), Publication No. S2618T/J20/28, Rev.1 Aug 2020 — model: Solis 26, Tractor with 9+9 Speed Transmission, Part Code 300190111A — Chapter 02, pp.16–37.
 
-This chapter covers the warranty terms, pre-delivery/installation responsibilities, warranty procedure and parts warnings (pp.16–17), followed by the complete Safety Notes section: safety-sign guidelines, PPE and safe-operation practices, and every themed safety precaution (starting, tipping/overturning, fuel/fire, acid/battery, maintenance, ROPS/seat belt, loader, lightning, noise/vibration, etc.), and the full Safety Decal / Label location list with pictograms (pp.18–37). This is the most safety-critical chapter — warnings are preserved near-verbatim.
+This chapter covers the warranty terms, pre-delivery/installation responsibilities, warranty procedure and parts warnings, followed by the complete Safety Notes section: safety-sign guidelines, PPE and safe-operation practices, and every themed safety precaution (starting, tipping/overturning, fuel/fire, acid/battery, maintenance, ROPS/seat belt, loader, lightning, noise/vibration, etc.), and the full Safety Decal / Label location list with pictograms. This is the most safety-critical chapter — warnings are preserved near-verbatim.
 
 ## Contents
 
@@ -561,7 +561,7 @@ The value of the noise at the operator's ear, measured according to standard 167
 
 ## 2.9 Safety Warning & General Information Labels on Tractor
 
-The tractor carries safety warning and general information decals at specific locations. The table below reproduces each sticker/label, its pictogram meaning, and its location on the tractor (pp.35–37). The location photos show numbered callouts (1–6).
+The tractor carries safety warning and general information decals at specific locations. The table below reproduces each sticker/label, its pictogram meaning, and its location on the tractor. The location photos show numbered callouts (1–6).
 
 | No. | Label / Sticker | Location on Tractor | Pictogram(s) & Meaning |
 |---|---|---|---|

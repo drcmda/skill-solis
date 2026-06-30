@@ -22,7 +22,7 @@ This chapter covers the manual's front matter (cover, preface, manufacturer cont
 
 ## Cover & Publication Identification
 
-The manual cover (p.1) carries the following identification data:
+The manual cover carries the following identification data:
 
 | Field | Value |
 |---|---|
@@ -41,7 +41,7 @@ The manual cover (p.1) carries the following identification data:
 
 ## Preface (Welcome Letter)
 
-The preface (p.3) is addressed "Dear Customer" and reads, in substance:
+The preface is addressed "Dear Customer" and reads, in substance:
 
 - Welcome to the ITL family; thanks for the faith and trust placed in the careful selection of the tractor.
 - The dealer has taken good care while delivering the tractor to the customer's satisfaction.
@@ -58,7 +58,7 @@ The preface (p.3) is addressed "Dear Customer" and reads, in substance:
 
 ## Manufacturer & Contact Details
 
-Listed under **International Business (IB)** on the preface page (p.3):
+Listed under **International Business (IB)** on the preface page:
 
 | Field | Detail |
 |---|---|
@@ -84,7 +84,7 @@ A highlighted box at the foot of the preface page states:
 Reading this manual helps the operator and others avoid personal injury or damage to the tractor; the information helps use the tractor in the safest and most effective way.
 
 - This manual is an important part of the tractor and should be kept **with the tractor even when you sell it**.
-- Always specify the tractor **Chassis** and **Engine** serial numbers when ordering replacement parts — this facilitates correct and faster delivery of required parts from the dealer. Record these numbers in the space provided on the *Ownership and Tractor Details* page preceding this chapter.
+- Always specify the tractor **Chassis** and **Engine** serial numbers when ordering replacement parts — this facilitates correct and faster delivery of required parts from the dealer. Keep your own record of these numbers for quick reference when ordering parts.
 
 > **NOTE (Attachments):** If you have an attachment, use the safety and operating information in the attachment operator's manual together with the tractor operator's manual to operate the attachment safely and correctly.
 
@@ -101,7 +101,7 @@ Reading this manual helps the operator and others avoid personal injury or damag
 | Front Side | The **radiator end** of the tractor |
 | Rear Side | The **draw bar end** of the tractor |
 
-A top-view tractor diagram on p.13 illustrates this convention, labelling the four sides around the tractor outline: **Front** (radiator end, pointing left in the figure), **Rear** (draw bar end), **Right** and **Left**.
+A top-view tractor diagram illustrates this convention, labelling the four sides around the tractor outline: **Front** (radiator end, pointing left in the figure), **Rear** (draw bar end), **Right** and **Left**.
 
 ---
 
@@ -155,13 +155,13 @@ The EEC ROPS plate (Fig. D) carries the **Sonalika "INTERNATIONAL" logo** and th
 - **ROPS Serial No.** `______` (engraved field).
 - **Tractor Model** `______` (engraved field).
 
-> **NOTE:** The PDF text layer for this plate also renders the template fields **"V1"**, **"INTERNATIONAL TRACTORS LIMITED"**, **"TRACTOR TYPE T 2"**, **"ROPS Serial No."**, **"Tractor Model"**, together with approval characters **e11**, **3056**, **S** — these correspond to the older / alternate plate text. The plate image as printed on p.14 shows the **e₅ / 00045 U5S** approval mark.
+> **NOTE:** The PDF text layer for this plate also renders the template fields **"V1"**, **"INTERNATIONAL TRACTORS LIMITED"**, **"TRACTOR TYPE T 2"**, **"ROPS Serial No."**, **"Tractor Model"**, together with approval characters **e11**, **3056**, **S** — these correspond to the older / alternate plate text. The plate image as printed shows the **e₅ / 00045 U5S** approval mark.
 
 ---
 
 ## Identification Figures Summary
 
-The identification figures on p.14 (with their on-tractor locations and engraved content):
+The identification figures (with their on-tractor locations and engraved content):
 
 | Fig. | Item | Location on tractor | What it shows / contains |
 |---|---|---|---|
@@ -177,7 +177,7 @@ The identification figures on p.14 (with their on-tractor locations and engraved
 
 ## 1.6 Universal Symbols
 
-As a guide to the operation of the tractor, various universal (ISO-style) symbols are used on the instruments, controls and other places on the tractor. The symbols and their meanings (p.15) are reproduced below. Icon descriptions are provided so each pictogram can be recognised on the machine.
+As a guide to the operation of the tractor, various universal (ISO-style) symbols are used on the instruments, controls and other places on the tractor. The symbols and their meanings are reproduced below. Icon descriptions are provided so each pictogram can be recognised on the machine.
 
 | Symbol (pictogram described) | Meaning |
 |---|---|

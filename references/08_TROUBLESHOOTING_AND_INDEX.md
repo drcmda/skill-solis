@@ -17,7 +17,7 @@ This chapter provides the manual's diagnostic troubleshooting tables (Engine, Hy
 
 ## Troubleshooting
 
-The troubleshooting tables (pp.89–90) list each **Problem** alongside its **Possible Cause** and the recommended **Remedy**. Problems are grouped by system: Engine, Hydraulic, Brakes, and Electrical. Many remedies direct the operator to "authorised dealer" / "service through dealer" for repairs requiring trained service.
+The troubleshooting tables list each **Problem** alongside its **Possible Cause** and the recommended **Remedy**. Problems are grouped by system: Engine, Hydraulic, Brakes, and Electrical. Many remedies direct the operator to "authorised dealer" / "service through dealer" for repairs requiring trained service.
 
 > **NOTE:** Where a remedy refers to "authorised dealer", "find mission", or "service through dealer", the fault should be diagnosed and corrected by a Solis/Sonalika authorised service workshop rather than the operator.
 
@@ -62,11 +62,6 @@ The troubleshooting tables (pp.89–90) list each **Problem** alongside its **Po
 | | Thermostat faulty | Replace |
 | | Choking of cooling system | Clean the cooling system |
 | | Water temp. Gauge not working | Check through dealer and faulty replace |
-
-> *(Continued on p.90)*
-
-| Problem | Possible Cause | Remedy |
-|---|---|---|
 | **More Fuel Consumption** | Air cleaner is dirty / choked | Clean air cleaner |
 | | Overloading of engine | Reduce load or shift to low gear |
 | | Improper valve clearance | Check and adjust |
@@ -118,7 +113,7 @@ The troubleshooting tables (pp.89–90) list each **Problem** alongside its **Po
 
 ## Service Record
 
-Page 91 is a blank **Service Record** log for the dealer/owner to record every service and repair performed on the tractor. It identifies the tractor by its chassis and engine numbers at the top, then provides ruled rows for individual service entries.
+The manual provides a blank **Service Record** log for the dealer/owner to record every service and repair performed on the tractor. It identifies the tractor by its chassis and engine numbers at the top, then provides ruled rows for individual service entries.
 
 **Header identification fields (fill-in blanks):**
 
@@ -144,7 +139,7 @@ Page 91 is a blank **Service Record** log for the dealer/owner to record every s
 
 ## Alphabetical Index
 
-Page 92 of the manual is the **A–Z Alphabetical Index**. The original maps each topic to a page number; here every topic is instead mapped to the **chapter / reference** that covers it — each chapter link opens the matching reference file. Sub-entries (indented under a parent topic in the original) are marked with a leading "›".
+The manual closes with an **A–Z Alphabetical Index**. The original maps each topic to a page number; here every topic is instead mapped to the **chapter / reference** that covers it — each chapter link opens the matching reference file. Sub-entries (indented under a parent topic in the original) are marked with a leading "›".
 
 | Topic | Covered in |
 |---|---|

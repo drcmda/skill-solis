@@ -262,7 +262,7 @@ This chapter lists the operating Do's and Don'ts for every major tractor system 
 
 > ⚠️ **WARNING:** Do not operate the tractor or engine while lubricating or cleaning (entanglement / crush hazard).
 
-> **NOTE (closing instruction, p.88):** Ensure daily care of your tractor to avoid breakdowns. Carefully read and follow the other instructions given in the DO's and DON'Ts maintenance booklet, to ensure maximum saving of oil.
+> **NOTE (closing instruction):** Ensure daily care of your tractor to avoid breakdowns. Carefully read and follow the other instructions given in the DO's and DON'Ts maintenance booklet, to ensure maximum saving of oil.
 
 ---
 
@@ -289,14 +289,14 @@ Values collected from the DO's/DON'Ts text above for fast lookup.
 | Battery terminal protection | Lubricate terminal base with petroleum jelly |
 | Welding precaution | Disconnect battery terminals first |
 
-> **NOTE:** The item "Do flush oil once a year or 1000 hrs, whichever is earlier, if the tractor is not in operation." is printed as item 4 under the **Front Axle & Steering Mechanism — DO's** list on p.87 (its placement in that block is a quirk of the source layout; the instruction concerns lubrication/oil flushing).
+> **NOTE:** The item "Do flush oil once a year or 1000 hrs, whichever is earlier, if the tractor is not in operation." is printed as item 4 under the **Front Axle & Steering Mechanism — DO's** list (its placement in that block is a quirk of the source layout; the instruction concerns lubrication/oil flushing).
 
 ### Icons / Pictograms Captured
 
 | Icon / Pictogram (described) | Meaning |
 |---|---|
-| Two-column page layout headed "DO'S" (left) and "DONT'S" (right) on pp.86–87 | Each system's positive practices appear in the left column; prohibited practices in the right column |
-| Boxed footer banner (bottom-left, p.88): "Ensure daily care of your tractor to avoid breakdowns." | Closing reminder emphasising daily maintenance |
-| Boxed footer banner (bottom-right, p.88): "Carefully read and follow the other instructions given in the DO's and DON'Ts maintenance booklet, to ensure maximum saving of oil." | Cross-reference to the separate maintenance booklet for oil-saving practices |
+| Two-column page layout headed "DO'S" (left) and "DONT'S" (right) | Each system's positive practices appear in the left column; prohibited practices in the right column |
+| Boxed footer banner (bottom-left): "Ensure daily care of your tractor to avoid breakdowns." | Closing reminder emphasising daily maintenance |
+| Boxed footer banner (bottom-right): "Carefully read and follow the other instructions given in the DO's and DON'Ts maintenance booklet, to ensure maximum saving of oil." | Cross-reference to the separate maintenance booklet for oil-saving practices |
 
-> The pages contain no engineering diagrams, numbered callout figures, or symbol legends beyond the two-column DO's/DON'Ts text layout and the two boxed footer banners on p.88 described above.
+> The pages contain no engineering diagrams, numbered callout figures, or symbol legends beyond the two-column DO's/DON'Ts text layout and the two boxed footer banners described above.

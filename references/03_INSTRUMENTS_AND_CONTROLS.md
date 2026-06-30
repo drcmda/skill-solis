@@ -39,7 +39,7 @@ This chapter identifies every operator control, instrument-panel indicator, dash
 
 ## 3.1 Tractor Controls
 
-The labelled diagram on p.38 shows the tractor cabin/operator station from the driver's viewpoint, with numbered callouts (1–15) identifying each primary control. Callouts on the left/center cluster cover steering, pedals and the main shift levers; the right-hand cluster covers the hydraulic, PTO, shuttle, speed-range, and 2WD/4WD levers plus the parking brake.
+The labelled diagram shows the tractor cabin/operator station from the driver's viewpoint, with numbered callouts (1–15) identifying each primary control. Callouts on the left/center cluster cover steering, pedals and the main shift levers; the right-hand cluster covers the hydraulic, PTO, shuttle, speed-range, and 2WD/4WD levers plus the parking brake.
 
 | No. | Control | Location / Notes |
 |-----|---------|------------------|
@@ -63,7 +63,7 @@ The labelled diagram on p.38 shows the tractor cabin/operator station from the d
 
 ## 3.2 Instrument Panel
 
-The instrument cluster (p.39 diagram) carries a large central tachometer/hour-meter flanked left by the temperature gauge and right by the fuel gauge, surrounded by 14 telltale indicator icons (callouts 1–14). The table below maps each icon to its indicator; detailed descriptions follow in 3.2.1–3.2.14.
+The instrument cluster diagram carries a large central tachometer/hour-meter flanked left by the temperature gauge and right by the fuel gauge, surrounded by 14 telltale indicator icons (callouts 1–14). The table below maps each icon to its indicator; detailed descriptions follow in 3.2.1–3.2.14.
 
 | No. | Icon (described) | Indicator |
 |-----|------------------|-----------|
@@ -164,7 +164,7 @@ This light glows when the work lamp or plough lamp is ON.
 
 ## 3.3 Dashboard Controls
 
-The dashboard layout (Fig. 9.6 on p.44) shows, around the steering wheel: the **Instrument Cluster** (top right of column), **Beacon (Revolving) Light Switch** and **Hazard Warning Light Switch** (left of column), the **Combination Switch** and **Ignition Switch** (right side of column), and the **PTO External Control Switch** (right side).
+The dashboard layout (Fig. 9.6) shows, around the steering wheel: the **Instrument Cluster** (top right of column), **Beacon (Revolving) Light Switch** and **Hazard Warning Light Switch** (left of column), the **Combination Switch** and **Ignition Switch** (right side of column), and the **PTO External Control Switch** (right side).
 
 ### 3.3.1 Hazard Warning Light Switch (Fig. 3.3.1)
 
@@ -230,7 +230,7 @@ The fuse box is mounted on the upper radiator bracket (see figure). If any elect
 
 > **CAUTION:** Never install a wire instead of a proper fuse.
 
-Refer to "Page No. 79" for details of fuses.
+Refer to **[Ch.5 — Maintenance → Fuses in Fuse Box](05_MAINTENANCE.md)** for fuse ratings and the circuits they protect.
 
 ---
 
@@ -261,7 +261,7 @@ A seven pin socket is mounted on the licence plate to attach the trailer connect
 
 ## 3.7 Tractor Lights
 
-The p.48 figures show light positions in two views — a front view (left) and a rear view (right) of the tractor. In the front view: callout 3 (beacon, top), callout 2 ×2 (tail lights, both sides), callout 1 (head lights, front center). In the rear view: callout 3 (beacon, top), callout 2 ×2 (tail lights, both sides), callout 5 (registration plate light, center), callout 4 (plough lamp). Note callout 2 (tail lights) appears twice in EACH view — there are **two** tail lights.
+The figures show light positions in two views — a front view (left) and a rear view (right) of the tractor. In the front view: callout 3 (beacon, top), callout 2 ×2 (tail lights, both sides), callout 1 (head lights, front center). In the rear view: callout 3 (beacon, top), callout 2 ×2 (tail lights, both sides), callout 5 (registration plate light, center), callout 4 (plough lamp). Note callout 2 (tail lights) appears twice in EACH view — there are **two** tail lights.
 
 | No. | Light | Description |
 |-----|-------|-------------|
