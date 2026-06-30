@@ -2,7 +2,7 @@
 
 > **Source:** Solis 26 Operator Manual (International Tractors Ltd / Sonalika), Publication No. S2618T/J20/28, Rev.1 Aug 2020 — model: Solis 26, Tractor with 9+9 Speed Transmission, Part Code 300190111A — Chapter 08, pp.89–92.
 
-This chapter provides the manual's diagnostic troubleshooting tables (Engine, Hydraulic, Brakes, Electrical), the blank Service Record log used by the dealer to document maintenance and repairs, and the manual's own A–Z Alphabetical Index of topics with page numbers.
+This chapter provides the manual's diagnostic troubleshooting tables (Engine, Hydraulic, Brakes, Electrical), the blank Service Record log used by the dealer to document maintenance and repairs, and the manual's own A–Z Alphabetical Index of topics, each mapped to the chapter/reference that covers it.
 
 ## Contents
 - [Troubleshooting](#troubleshooting)
@@ -144,136 +144,136 @@ Page 91 is a blank **Service Record** log for the dealer/owner to record every s
 
 ## Alphabetical Index
 
-Page 92 is the manual's own **A–Z Alphabetical Index**: each topic maps to its page number. Sub-entries (indented under a parent topic in the original) are marked here with a leading "›". The table reproduces every topic→page entry exactly as printed.
+Page 92 of the manual is the **A–Z Alphabetical Index**. The original maps each topic to a page number; here every topic is instead mapped to the **chapter / reference** that covers it — each chapter link opens the matching reference file. Sub-entries (indented under a parent topic in the original) are marked with a leading "›".
 
-| Topic | Page |
+| Topic | Covered in |
 |---|---|
-| Air Bleeding of Fuel System | 71 |
-| Air Cleaner Clogging Indicator | 40 |
-| Air Cleaner Maintenance | 73 |
-| Accelerator Pedal | 53 |
-| Adjusting V-belt tension | 78 |
-| Alternator | 78 |
-| Ballasting the Front Axle | 64 |
-| Battery | 46 |
-| Battery and its Maintenance | 77 |
-| Battery Charge Indicator | 43 |
-| Boarding & Leaving the Tractor | 51 |
-| Brake Pedal | 74 |
-| Brake Pedal Free Play | 74 |
-| Chassis Serial Number | 14 |
-| Check Wheel Nut Bolt | 63 |
-| Checking Engine Oil Level | 70 |
-| Checking V-belt | 78 |
-| Cleaning of Suction Strainer | 76 |
-| Clutch Pedal | 54 |
-| Clutch Pedal | 74 |
-| Cold Start Indication | 41 |
-| Cold Weather Starting | 51 |
-| Coolant Level in Radiator (When Hot) | 71 |
-| Dashboard Controls | 44 |
-| › ‘2WD / 4WD’ Lever | 54 |
-| › Accelerator Pedal | 53 |
-| › Clutch Pedal | 54 |
-| › Differential Lock Pedal | 59 |
-| › Gear Shifter Lever | 54 |
-| › Hand Throttle Lever | 54 |
-| › Hydraulic Control Lever | 64 |
-| › Hydraulic Coupling Devices | 58 |
-| › Parking Brake | 60 |
-| › Power Steering | 60 |
-| › Power Take off (PTO) | 55 |
-| › Response Valve (Transport Lock) | 59 |
-| › Safety Frame: Roll Over Protection Structure (ROPS) | 66 |
-| › Service Brake | 60 |
-| › Shuttle Lever | 55 |
-| › Speed Chart | 61 |
-| › Speed Range Selector (H-M-L) Lever | 59 |
-| › Three Point Linkage | 64 |
-| › Wheels and Tyres | 62 |
-| Differential Lock Pedal | 59 |
-| DO'S AND DON'TS | 86 |
-| Driver's Seat | 49 |
-| Engine | 51 |
-| Engine RPM cum Hour Meter | 41 |
-| Engine Serial Number | 14 |
-| Fuel Gauge | 43 |
-| Fuel Requisites | 69 |
-| Fuel Storage | 69 |
-| Fuel Tank Filling | 69 |
-| Fueling | 69 |
-| Fuse Box | 46 |
-| Fuses in Fuse Box | 79 |
-| Gear Shifter Lever | 54 |
-| General Maintenance of Electrical System | 77 |
-| Greasing Points | 81 |
-| Guidelines about Safety Sign | 18 |
-| High Beam Indicator | 41 |
-| Hydraulic Control Lever | 64 |
-| If You Move | 17 |
-| Inspection of Hoses | 73 |
-| Instrument Panel | 39 |
-| Introduction | 16 |
-| Jack Up the Tractor - Lifting Points | 82 |
-| Left Turn Indicator | 40 |
-| Long Idle Period | 80 |
-| Maintenance Schedule | 67 |
-| Matching Implements | 84 |
-| Noise & Vibration Levels | 34 |
-| Oil and Lubrication Chart | 82 |
-| Oil Changes for Transmission, Rear Final Drives and Power Lift Hydraulic Circuits | 75 |
-| Oil Changes in 4WD Front Axle | 75 |
-| Oil Pressure Indicator | 42 |
-| Opening the Bonnet | 53 |
-| Operator Presence Control (OPC) | 50 |
-| Park Brake Indicator | 40 |
-| Parking Brake | 60 |
-| Parts Warning | 17 |
-| Power Steering | 60 |
-| Power Take off (PTO) | 55 |
-| PTO Monitor Lamp | 42 |
-| Radiator | 71 |
-| Radiator Cap | 72 |
-| Radiator Draining & Flushing (When cold) | 72 |
-| Radiator Fins Cleaning | 72 |
-| Radiator Mesh Cleaning | 72 |
-| Recommended Oil grades & Application range | 76 |
-| Registration Plate | 48 |
-| Replacement of Fuel Filter | 71 |
-| Replacement of Oil Filter & Engine Oil | 70 |
-| Response Valve (Transport Lock) | 59 |
-| Right Turn Indicator | 41 |
-| ROPS Certificate Plate | 14 |
-| Running in | 52 |
-| Safety Frame: Roll Over Protection Structure (ROPS) | 66 |
-| Safety From Lightning Strike | 34 |
-| Safety Notes | 18–37 |
-| Safety: Prepare For Safe Operation | 19 |
-| Safety While Operating Loader Attachments | 33 |
-| Service After Warranty | 17 |
-| Service Brake | 60 |
-| Service Record | 91 |
-| Seven Pin Socket | 47 |
-| Shuttle Lever | 55 |
-| Speed Chart | 61 |
-| Speed Range Selector (H-M-L) Lever | 59 |
-| Starter Motor | 78 |
-| Starting the Engine | 51 |
-| Statutory Plate | 14 |
-| Steering Cylinder Knuckle Joints | 74 |
-| Stopping and Parking | 52 |
-| Technical Specifications | 83 |
-| Temperature Gauge | 42 |
-| Three Point Linkage | 64 |
-| Tractor Controls | 38 |
-| Tractor Light | 48 |
-| Troubleshooting | 89 |
-| Turn Trailer Lamp | 42 |
-| Turning off the Engine | 52 |
-| Under Hood Muffler | 53 |
-| Universal Symbols | 15 |
-| Using Operator Manual | 13 |
-| Warranty Procedure | 17 |
-| Warranty, Pre-delivery and Installation | 16 |
-| Wheels and Tyres | 62 |
-| Work Lamp Indicator | 43 |
+| Air Bleeding of Fuel System | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Air Cleaner Clogging Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Air Cleaner Maintenance | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Accelerator Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| Adjusting V-belt tension | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Alternator | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Ballasting the Front Axle | [Ch.4 — Operation](04_OPERATION.md) |
+| Battery | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Battery and its Maintenance | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Battery Charge Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Boarding & Leaving the Tractor | [Ch.4 — Operation](04_OPERATION.md) |
+| Brake Pedal | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Brake Pedal Free Play | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Chassis Serial Number | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Check Wheel Nut Bolt | [Ch.4 — Operation](04_OPERATION.md) |
+| Checking Engine Oil Level | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Checking V-belt | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Cleaning of Suction Strainer | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Clutch Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| Clutch Pedal | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Cold Start Indication | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Cold Weather Starting | [Ch.4 — Operation](04_OPERATION.md) |
+| Coolant Level in Radiator (When Hot) | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Dashboard Controls | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| › ‘2WD / 4WD’ Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Accelerator Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| › Clutch Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| › Differential Lock Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| › Gear Shifter Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Hand Throttle Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Hydraulic Control Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Hydraulic Coupling Devices | [Ch.4 — Operation](04_OPERATION.md) |
+| › Parking Brake | [Ch.4 — Operation](04_OPERATION.md) |
+| › Power Steering | [Ch.4 — Operation](04_OPERATION.md) |
+| › Power Take off (PTO) | [Ch.4 — Operation](04_OPERATION.md) |
+| › Response Valve (Transport Lock) | [Ch.4 — Operation](04_OPERATION.md) |
+| › Safety Frame: Roll Over Protection Structure (ROPS) | [Ch.4 — Operation](04_OPERATION.md) |
+| › Service Brake | [Ch.4 — Operation](04_OPERATION.md) |
+| › Shuttle Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Speed Chart | [Ch.4 — Operation](04_OPERATION.md) |
+| › Speed Range Selector (H-M-L) Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| › Three Point Linkage | [Ch.4 — Operation](04_OPERATION.md) |
+| › Wheels and Tyres | [Ch.4 — Operation](04_OPERATION.md) |
+| Differential Lock Pedal | [Ch.4 — Operation](04_OPERATION.md) |
+| DO'S AND DON'TS | [Ch.7 — Do's and Don'ts](07_DOS_AND_DONTS.md) |
+| Driver's Seat | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Engine | [Ch.4 — Operation](04_OPERATION.md) |
+| Engine RPM cum Hour Meter | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Engine Serial Number | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Fuel Gauge | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Fuel Requisites | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Fuel Storage | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Fuel Tank Filling | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Fueling | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Fuse Box | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Fuses in Fuse Box | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Gear Shifter Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| General Maintenance of Electrical System | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Greasing Points | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Guidelines about Safety Sign | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| High Beam Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Hydraulic Control Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| If You Move | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Inspection of Hoses | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Instrument Panel | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Introduction | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Jack Up the Tractor - Lifting Points | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Left Turn Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Long Idle Period | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Maintenance Schedule | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Matching Implements | [Ch.6 — Technical Specifications](06_TECHNICAL_SPECIFICATIONS.md) |
+| Noise & Vibration Levels | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Oil and Lubrication Chart | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Oil Changes for Transmission, Rear Final Drives and Power Lift Hydraulic Circuits | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Oil Changes in 4WD Front Axle | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Oil Pressure Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Opening the Bonnet | [Ch.4 — Operation](04_OPERATION.md) |
+| Operator Presence Control (OPC) | [Ch.4 — Operation](04_OPERATION.md) |
+| Park Brake Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Parking Brake | [Ch.4 — Operation](04_OPERATION.md) |
+| Parts Warning | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Power Steering | [Ch.4 — Operation](04_OPERATION.md) |
+| Power Take off (PTO) | [Ch.4 — Operation](04_OPERATION.md) |
+| PTO Monitor Lamp | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Radiator | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Radiator Cap | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Radiator Draining & Flushing (When cold) | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Radiator Fins Cleaning | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Radiator Mesh Cleaning | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Recommended Oil grades & Application range | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Registration Plate | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Replacement of Fuel Filter | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Replacement of Oil Filter & Engine Oil | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Response Valve (Transport Lock) | [Ch.4 — Operation](04_OPERATION.md) |
+| Right Turn Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| ROPS Certificate Plate | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Running in | [Ch.4 — Operation](04_OPERATION.md) |
+| Safety Frame: Roll Over Protection Structure (ROPS) | [Ch.4 — Operation](04_OPERATION.md) |
+| Safety From Lightning Strike | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Safety Notes | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Safety: Prepare For Safe Operation | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Safety While Operating Loader Attachments | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Service After Warranty | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Service Brake | [Ch.4 — Operation](04_OPERATION.md) |
+| Service Record | [Ch.8 — Troubleshooting & Index](08_TROUBLESHOOTING_AND_INDEX.md) |
+| Seven Pin Socket | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Shuttle Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| Speed Chart | [Ch.4 — Operation](04_OPERATION.md) |
+| Speed Range Selector (H-M-L) Lever | [Ch.4 — Operation](04_OPERATION.md) |
+| Starter Motor | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Starting the Engine | [Ch.4 — Operation](04_OPERATION.md) |
+| Statutory Plate | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Steering Cylinder Knuckle Joints | [Ch.5 — Maintenance](05_MAINTENANCE.md) |
+| Stopping and Parking | [Ch.4 — Operation](04_OPERATION.md) |
+| Technical Specifications | [Ch.6 — Technical Specifications](06_TECHNICAL_SPECIFICATIONS.md) |
+| Temperature Gauge | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Three Point Linkage | [Ch.4 — Operation](04_OPERATION.md) |
+| Tractor Controls | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Tractor Light | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Troubleshooting | [Ch.8 — Troubleshooting & Index](08_TROUBLESHOOTING_AND_INDEX.md) |
+| Turn Trailer Lamp | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
+| Turning off the Engine | [Ch.4 — Operation](04_OPERATION.md) |
+| Under Hood Muffler | [Ch.4 — Operation](04_OPERATION.md) |
+| Universal Symbols | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Using Operator Manual | [Ch.1 — Introduction & Identification](01_INTRODUCTION_AND_IDENTIFICATION.md) |
+| Warranty Procedure | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Warranty, Pre-delivery and Installation | [Ch.2 — Warranty & Safety](02_WARRANTY_AND_SAFETY.md) |
+| Wheels and Tyres | [Ch.4 — Operation](04_OPERATION.md) |
+| Work Lamp Indicator | [Ch.3 — Instruments & Controls](03_INSTRUMENTS_AND_CONTROLS.md) |
