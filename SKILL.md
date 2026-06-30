@@ -1,13 +1,13 @@
 ---
 name: solis-26-tractor
-description: Use this skill for any question about the Solis 26 tractor (International Tractors Limited / Sonalika; 26 HP-class, 9+9 speed transmission, Mitsubishi diesel) — operation, starting/cold-start, controls & instruments, maintenance schedules, fluids/oils/coolant and capacities, lubrication & greasing, fuses & electrical, PTO, hydraulics & 3-point linkage, ROPS, tyres & ballasting, troubleshooting/fault diagnosis, technical specifications, matching implements, warranty, and safety. Based on the official Solis 26 Operator Manual (Pub. No. S2618T/J20/28, Aug 2020). Triggers on questions about Solis/Sonalika tractor operation, service intervals, oil/fuel/coolant specs, torque values, warning lights, or any control, warning, or fault on this tractor.
+description: Use this skill for any question about the Solis 26 tractor (International Tractors Limited / Sonalika; 26 HP-class, 9+9 speed transmission, Mitsubishi diesel) — operation, starting/cold-start, controls & instruments, maintenance schedules, fluids/oils/coolant and capacities, lubrication & greasing, fuses & electrical, PTO, hydraulics & 3-point linkage, ROPS, tyres & ballasting, troubleshooting/fault diagnosis, technical specifications, matching implements, warranty, and safety. Based on the official Solis 26 Operator Manual (Pub. No. S2618T/J20/28, Aug 2020). Triggers on questions about Solis/Sonalika tractor operation, service intervals, oil/fuel/coolant specs, torque values, warning lights, or any control, warning, or fault on this tractor. Also covers implements used with the tractor — currently the Quicke Multigrab C/CS grab bucket (Greifschaufel), a front-loader attachment by Ålö/Quicke (its operation, safety, lubrication, data and warranty).
 ---
 
 # Solis 26 Tractor — Operator Manual Skill
 
 **Source:** _Operator Manual — Solis 26 (Tractor with 9+9 Speed Transmission)_, International Tractors Limited (ITL) / Sonalika, Hoshiarpur, India. Publication No. **S2618T/J20/28**, Revision 1, **August 2020**. Part Code **300190111A**. Written in compliance with **ISO 3600**. (92 pages, 8 chapters.)
 
-The original PDF lives in [`source/Solis-26-99-user-manual.pdf`](source/Solis-26-99-user-manual.pdf). Every chapter has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into the files under [`references/`](references/).
+The source manuals live in [`source/`](source/). Every chapter of each manual has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into **per-equipment folders** under [`references/`](references/): the tractor in [`references/solis-26/`](references/solis-26/), and front-loader attachments such as the grab bucket in [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/). This skill focuses on the **Solis 26 tractor** (the main machine) and references each attachment.
 
 ---
 
@@ -19,11 +19,24 @@ This skill is the complete, navigable knowledge base for **operating, servicing,
 
 ---
 
-## References & Section Index
+## Equipment Covered by This Skill
 
-The manual's eight chapters, each a single self-contained reference. For every chapter: **when to use it**, a one-line summary, and an index of its sections with what each one covers.
+This skill documents the **Solis 26 tractor** (the main machine) plus the **implements/attachments** used with it. Each piece of equipment has its own folder under [`references/`](references/).
 
-### [Chapter 1 — Introduction & Identification](references/01_INTRODUCTION_AND_IDENTIFICATION.md)
+| Equipment | Type | Role | References |
+|---|---|---|---|
+| **Solis 26** | Tractor (9F+9R, Mitsubishi diesel) | **Main machine** — the focus of this skill | [`references/solis-26/`](references/solis-26/) — full index below |
+| **Quicke Multigrab C / CS** | Grab bucket (Greifschaufel) | Front-loader **attachment / implement** | [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/) — [overview](references/quicke-multigrab-c/00_OVERVIEW.md) · summary below |
+
+> Attachments mount on the tractor's front loader; their **implement weight + load must stay within the tractor's limits**. For an attachment question, use its references **and** the tractor's loader-safety / hydraulics sections.
+
+---
+
+## Solis 26 Tractor — References & Section Index
+
+The tractor manual's eight chapters, each a single self-contained reference. For every chapter: **when to use it**, a one-line summary, and an index of its sections with what each one covers.
+
+### [Chapter 1 — Introduction & Identification](references/solis-26/01_INTRODUCTION_AND_IDENTIFICATION.md)
 
 **Use when:** Model, serial numbers, plates, symbols, "what is this tractor"
 
@@ -38,7 +51,7 @@ Front matter (cover, preface, ITL contacts, ISO 3600 compliance) plus how to use
 | 1.5 ROPS Certificate Plate | EEC type-approval plate on the ROPS (serial, model, approval mark) |
 | 1.6 Universal Symbols | Legend of the ~30 ISO pictograms used on instruments and controls |
 
-### [Chapter 2 — Warranty & Safety](references/02_WARRANTY_AND_SAFETY.md)
+### [Chapter 2 — Warranty & Safety](references/solis-26/02_WARRANTY_AND_SAFETY.md)
 
 **Use when:** Warranty, what's covered, safety rules, warning labels, PPE, ROPS safety
 
@@ -60,7 +73,7 @@ Warranty terms, pre-delivery/installation, warranty procedure, parts warning, "i
 | Noise & Vibration Levels | Operator-ear < 86 dB, bystander < 85 dB, whole-body vibration < 1.25 m/s² |
 | Safety Warning & General Information Labels on Tractor | The six on-tractor safety decals and their locations |
 
-### [Chapter 3 — Instruments & Controls](references/03_INSTRUMENTS_AND_CONTROLS.md)
+### [Chapter 3 — Instruments & Controls](references/solis-26/03_INSTRUMENTS_AND_CONTROLS.md)
 
 **Use when:** What a control/lever/switch does, warning lights, gauges, trailer socket, seat
 
@@ -92,7 +105,7 @@ All **15 operator controls** (callout diagram → table), the **14 instrument-pa
 | 3.8 Registration Plate | Number-plate mounting and its lamp |
 | 3.9 Driver's Seat | Seat adjustments — slide, suspension, height, weight (50–120 kgf), belt, armrest |
 
-### [Chapter 4 — Operation](references/04_OPERATION.md)
+### [Chapter 4 — Operation](references/solis-26/04_OPERATION.md)
 
 **Use when:** How to start / drive / stop, PTO, hydraulics, gears, speeds, ballasting, linkage
 
@@ -132,7 +145,7 @@ OPC logic, engine start/stop & cold-weather start, every primary control (clutch
 | 4.25 Three Point Linkage | Top link, lift rods and lower links — setup and levelling |
 | 4.26 Safety Frame: Roll Over Protection Structure (ROPS) | Roll-over frame and seat belt; folding/unfolding procedure |
 
-### [Chapter 5 — Maintenance](references/05_MAINTENANCE.md)
+### [Chapter 5 — Maintenance](references/solis-26/05_MAINTENANCE.md)
 
 **Use when:** Service intervals, oil/fuel/coolant change, filters, greasing, fuses, battery, belt
 
@@ -178,7 +191,7 @@ The **full periodic service schedule** (50–1500 h, R/C/CT/CA/CL codes), fuel/e
 | 5.24 Jack Up the Tractor - Lifting Points | Approved jacking and support points |
 | 5.25 Oil and Lubrication Chart | Summary of all lubricants, grades and capacities |
 
-### [Chapter 6 — Technical Specifications](references/06_TECHNICAL_SPECIFICATIONS.md)
+### [Chapter 6 — Technical Specifications](references/solis-26/06_TECHNICAL_SPECIFICATIONS.md)
 
 **Use when:** Exact specs, dimensions, weights, capacities, compatible implements
 
@@ -189,7 +202,7 @@ The complete **datasheet** (engine, transmission, hydraulics, brakes, steering, 
 | 6.1 Technical Specifications | Full datasheet — engine, transmission, hydraulics, brakes, steering, PTO, tyres, dimensions, weight |
 | 6.2 Matching Implements | Recommended implement types/sizes and their operating ERPM |
 
-### [Chapter 7 — Do's and Don'ts](references/07_DOS_AND_DONTS.md)
+### [Chapter 7 — Do's and Don'ts](references/solis-26/07_DOS_AND_DONTS.md)
 
 **Use when:** Best-practice tips, what NOT to do, fuel/oil saving
 
@@ -199,7 +212,7 @@ System-by-system **DO's and DON'Ts** (engine, transmission, clutch, hydraulics, 
 |---|---|
 | Chapter 7: Do's and Don'ts | System-by-system do's & don'ts plus fuel-saving, oil-saving and performance guidance |
 
-### [Chapter 8 — Troubleshooting, Service Record & Alphabetical Index](references/08_TROUBLESHOOTING_AND_INDEX.md)
+### [Chapter 8 — Troubleshooting, Service Record & Alphabetical Index](references/solis-26/08_TROUBLESHOOTING_AND_INDEX.md)
 
 **Use when:** Something is wrong / won't work / diagnosing a fault; service log
 
@@ -217,14 +230,35 @@ Diagnostic tables (**Problem → Cause → Remedy** for engine, hydraulic, brake
 
 ---
 
+## Attachment — Quicke Multigrab C / CS (Grab Bucket)
+
+A **grab bucket** (a bucket with a hydraulic grab arm) for compact front loaders with **300–1400 kg** lifting force; models **CS 120 / CM 140 / CL 170**. Manufacturer **Ålö AB (Quicke)**, doc 60081299 E. It is a loader **attachment** — the tractor (base machine) sets the weight/load limits.
+
+**Start at the [Multigrab C / CS overview](references/quicke-multigrab-c/00_OVERVIEW.md)** for identity, key specs, and safety essentials. Chapters:
+
+| Chapter | What it covers |
+|---|---|
+| [01 — Preface](references/quicke-multigrab-c/01_PREFACE.md) | Using the manual; type-plate fields & the Product/Type/Serial-No. callouts to quote to the dealer |
+| [02 — Safety Instructions](references/quicke-multigrab-c/02_SAFETY.md) | Decals; DANGER/WARNING/CAUTION/IMPORTANT/NOTE hierarchy; weight limits; crushing & pressurised-oil hazards |
+| [03 — Description](references/quicke-multigrab-c/03_DESCRIPTION.md) | What it is; bolt-on gables & clamp-edge accessories |
+| [04 — Driving Instructions](references/quicke-multigrab-c/04_DRIVING_INSTRUCTIONS.md) | Designated use; pre-op checks (hoses, collision, locked pins); gripping/moving; parking |
+| [05 — Lubrication & Maintenance](references/quicke-multigrab-c/05_LUBRICATION_AND_MAINTENANCE.md) | 10-hour greasing; extended storage; hydraulic hose/cylinder care |
+| [06 — Data](references/quicke-multigrab-c/06_DATA.md) | Dimensions (A–H), weights, volumes, pressure; loader-model & lifting-capacity recommendation matrices |
+| [07 — Warranty & Conformity](references/quicke-multigrab-c/07_WARRANTY_AND_CONFORMITY.md) | Warranty conditions; EU (2006/42/EC) & UK Declarations of Conformity |
+
+> ⚠️ Max hydraulic working pressure **175 bar** (use a pressure-restriction kit above it); lubricate every **10 operating hours**; never use the implement as a platform or to lift people; hose colour code **(+) red / (−) blue**.
+
+---
+
 ## How to Answer (use every time)
 
-1. **Safety first.** If the question touches operation, maintenance, fluids, electrics, or anything near moving parts, lead with the relevant **WARNING / CAUTION / DANGER** from [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md). Never give a procedure that skips a safety step the manual states.
+1. **Safety first.** If the question touches operation, maintenance, fluids, electrics, or anything near moving parts, lead with the relevant **WARNING / CAUTION / DANGER** from [`references/solis-26/02_WARRANTY_AND_SAFETY.md`](references/solis-26/02_WARRANTY_AND_SAFETY.md). Never give a procedure that skips a safety step the manual states.
 2. **Find the exact section.** Use the **References & Section Index** above to open the right file, then **lead with the manual's exact procedure, values, intervals, torques, and capacities** — quote them precisely, keeping both metric and the manual's imperial conversions where given.
 3. **Cite the location** (chapter + section + page) so the user can verify in the source PDF.
 4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
 5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**
 6. **Engine variants.** Some values differ between the **Stage III** and **Stage V** emission variants (rated rpm, low idle, injection timing). Note the variant when it matters.
+7. **Attachments.** For a grab-bucket question, use the [Quicke Multigrab C / CS references](references/quicke-multigrab-c/00_OVERVIEW.md). Remember it is a loader attachment: the tractor's **loader-attachment safety, hydraulics, and weight/load limits** also apply — cross-check the tractor's Ch.2 (loader safety) and the base-machine limits.
 
 ---
 
@@ -279,7 +313,7 @@ Schedule legend: **R** Replace · **C** Check · **CT** Check & Tight · **CA** 
 | Engine-oil system flush | yearly / **1000 h**, whichever first |
 | Grease all points | per schedule (see 10 points below) |
 
-The **full two-part maintenance schedule table** (every component × every interval) is in [`references/05_MAINTENANCE.md`](references/05_MAINTENANCE.md).
+The **full two-part maintenance schedule table** (every component × every interval) is in [`references/solis-26/05_MAINTENANCE.md`](references/solis-26/05_MAINTENANCE.md).
 
 ---
 
@@ -313,7 +347,7 @@ The **full two-part maintenance schedule table** (every component × every inter
 | **PTO monitor** | PTO engaged | Be aware rotating PTO is live |
 | Park brake / turn / high-beam / work-lamp / trailer | status lamps | informational |
 
-> Ignition key: **1 = OFF** (key removable) · **2 = ON + HEAT** (run position; glow plug heats) · **3 = START** (auto-returns to ON). **Crank max 5–8 s**; wait 5–10 s (1 min after every 2 failed attempts) before re-cranking, or you may damage the starter. **Never use ether / starting fluid.** Full instrument-panel and dashboard detail in [`references/03_INSTRUMENTS_AND_CONTROLS.md`](references/03_INSTRUMENTS_AND_CONTROLS.md).
+> Ignition key: **1 = OFF** (key removable) · **2 = ON + HEAT** (run position; glow plug heats) · **3 = START** (auto-returns to ON). **Crank max 5–8 s**; wait 5–10 s (1 min after every 2 failed attempts) before re-cranking, or you may damage the starter. **Never use ether / starting fluid.** Full instrument-panel and dashboard detail in [`references/solis-26/03_INSTRUMENTS_AND_CONTROLS.md`](references/solis-26/03_INSTRUMENTS_AND_CONTROLS.md).
 
 ---
 
@@ -357,7 +391,7 @@ Relays (5-pin, terminals 30/85/86/87/87A): **PTO Auto, OPC, OPC Switch, Engine S
 - **Lightning = DANGER:** hear thunder → shut down and move to a sturdy building.
 - Noise at operator's ear **< 86 dB**; vibration **< 1.25 m/s²**.
 
-Full warnings, PPE list, all themed safety notes, and the six on-tractor **safety decal locations** are in [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md).
+Full warnings, PPE list, all themed safety notes, and the six on-tractor **safety decal locations** are in [`references/solis-26/02_WARRANTY_AND_SAFETY.md`](references/solis-26/02_WARRANTY_AND_SAFETY.md).
 
 ---
 
