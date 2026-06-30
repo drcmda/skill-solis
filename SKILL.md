@@ -7,7 +7,7 @@ description: Use this skill for any question about the Solis 26 tractor (Interna
 
 **Source:** _Operator Manual — Solis 26 (Tractor with 9+9 Speed Transmission)_, International Tractors Limited (ITL) / Sonalika, Hoshiarpur, India. Publication No. **S2618T/J20/28**, Revision 1, **August 2020**. Part Code **300190111A**. Written in compliance with **ISO 3600**. (92 pages, 8 chapters.)
 
-The source manuals live in [`source/`](source/). Every chapter of each manual has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into **per-equipment folders** under [`references/`](references/): the tractor in [`references/solis-26/`](references/solis-26/), and front-loader attachments such as the grab bucket in [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/). This skill focuses on the **Solis 26 tractor** (the main machine) and references each attachment.
+The source manuals live in [`source/`](source/). Every chapter of each manual has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into **per-equipment folders** under [`references/`](references/): the tractor in [`references/solis-26/`](references/solis-26/), and each attachment/implement such as the grab bucket in [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/). This skill focuses on the **Solis 26 tractor** (the main machine) and references each attachment.
 
 ---
 
@@ -28,7 +28,7 @@ This skill documents the **Solis 26 tractor** (the main machine) plus the **impl
 | **Solis 26** | Tractor (9F+9R, Mitsubishi diesel) | **Main machine** — the focus of this skill | [`references/solis-26/`](references/solis-26/) — full index below |
 | **Quicke Multigrab C / CS** | Grab bucket (Greifschaufel) | Front-loader **attachment / implement** | [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/) — [overview](references/quicke-multigrab-c/00_OVERVIEW.md) · summary below |
 
-> Attachments mount on the tractor's front loader; their **implement weight + load must stay within the tractor's limits**. For an attachment question, use its references **and** the tractor's loader-safety / hydraulics sections.
+> Implements connect to the tractor in different ways depending on the implement — **front loader, three-point linkage, PTO, or drawbar** — and are always operated **through and within the tractor's limits** (total weight & ballast, hydraulics, PTO, lift capacity). For an attachment question, use that attachment's references **together with** the relevant tractor sections (safety, hydraulics/PTO/linkage, technical limits).
 
 ---
 
@@ -258,7 +258,7 @@ A **grab bucket** (a bucket with a hydraulic grab arm) for compact front loaders
 4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
 5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**
 6. **Engine variants.** Some values differ between the **Stage III** and **Stage V** emission variants (rated rpm, low idle, injection timing). Note the variant when it matters.
-7. **Attachments.** For a grab-bucket question, use the [Quicke Multigrab C / CS references](references/quicke-multigrab-c/00_OVERVIEW.md). Remember it is a loader attachment: the tractor's **loader-attachment safety, hydraulics, and weight/load limits** also apply — cross-check the tractor's Ch.2 (loader safety) and the base-machine limits.
+7. **Attachments / implements.** For a question about an attachment (e.g. the [Quicke Multigrab C / CS grab bucket](references/quicke-multigrab-c/00_OVERVIEW.md)), use that attachment's references. An implement is operated **through the tractor**, so the tractor's safety rules and its relevant limits — total weight & ballast, hydraulics, PTO, and three-point-linkage lift capacity — also apply; cross-check the matching tractor sections. How an implement attaches depends on the implement (front loader, three-point linkage, PTO, drawbar).
 
 ---
 
