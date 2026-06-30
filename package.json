@@ -1,0 +1,26 @@
+{
+  "name": "skill-solis",
+  "version": "1.0.0",
+  "description": "Agent skill distilled from the Solis 26 tractor Operator Manual (International Tractors Ltd / Sonalika) — operation, maintenance, troubleshooting, specs and safety as structured Markdown references.",
+  "license": "MIT",
+  "author": "Paul Henschel <drcmda@gmail.com>",
+  "keywords": [
+    "claude",
+    "agent-skill",
+    "solis",
+    "sonalika",
+    "tractor",
+    "operator-manual"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drcmda/skill-solis.git"
+  },
+  "homepage": "https://github.com/drcmda/skill-solis#readme",
+  "bugs": {
+    "url": "https://github.com/drcmda/skill-solis/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
