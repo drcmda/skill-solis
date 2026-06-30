@@ -208,161 +208,162 @@ Each chapter of the manual is a single self-contained reference. Open the one th
 
 ---
 
-## Complete Manual Index (every section → page)
+## Complete Manual Index (every section, with what it covers)
 
-The full section-by-section index from the manual (pp.10–12), reproduced as printed, with each chapter linked to its reference. The manual's printed page numbers match the PDF page numbers.
+Every section of the manual, grouped by chapter, with a one-line description to help locate the right topic. Each chapter heading links to its full reference.
 
 ### [Chapter 1 — Introduction & Identification](references/01_INTRODUCTION_AND_IDENTIFICATION.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 1.1 Using Operator Manual | 13 |
-| 1.2 Chassis Serial Number | 14 |
-| 1.3 Engine Serial Number | 14 |
-| 1.4 Statutory Plate | 14 |
-| 1.5 ROPS Certificate Plate | 14 |
-| 1.6 Universal Symbols | 15 |
+| 1.1 Using Operator Manual | How to use the manual; LH/RH/front(radiator)/rear(drawbar) direction convention; keep with tractor; attachment & language notes |
+| 1.2 Chassis Serial Number | Where the chassis number is punched — right side of the front axle bracket |
+| 1.3 Engine Serial Number | Where the engine number is stamped — FIP mount on RH cylinder block; also on the rocker-cover sticker |
+| 1.4 Statutory Plate | LH-fender plate: chassis no., permissible axle masses, towable-load matrix |
+| 1.5 ROPS Certificate Plate | EEC type-approval plate on the ROPS (serial, model, approval mark) |
+| 1.6 Universal Symbols | Legend of the ~30 ISO pictograms used on instruments and controls |
 
 ### [Chapter 2 — Warranty & Safety](references/02_WARRANTY_AND_SAFETY.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 2.1 Introduction | 16 |
-| 2.2 Warranty, Pre-delivery and Installation | 16 |
-| 2.3 Warranty Procedure | 17 |
-| 2.4 Parts Warning | 17 |
-| 2.5 If You Move | 17 |
-| 2.6 Service After Warranty | 17 |
-| 2.7 Guidelines about Safety Sign | 18 |
-| 2.8 Safety: Prepare For Safe Operation | 19 |
-| Safety Notes | 18–37 |
-| Safety While Operating Loader Attachments | 33 |
-| Safety From Lightning Strike | 34 |
-| Noise & Vibration Levels | 34 |
+| 2.1 Introduction | Purpose and scope of the warranty & safety chapter |
+| 2.2 Warranty, Pre-delivery and Installation | What the warranty covers; dealer pre-delivery & installation duties |
+| 2.3 Warranty Procedure | How to raise/process a warranty claim |
+| 2.4 Parts Warning | Use genuine ITL parts; non-genuine parts can void warranty |
+| 2.5 If You Move | Notify the dealer/company of an address or ownership change |
+| 2.6 Service After Warranty | Continue servicing at authorized centres once warranty ends |
+| 2.7 Guidelines about Safety Sign | Signal-word hierarchy (DANGER/WARNING/CAUTION/IMPORTANT/NOTE); keep decals legible |
+| 2.8 Safety: Prepare For Safe Operation | Required PPE — hard hat, goggles, ear muffs, mask, gloves, boots, hi-vis |
+| Safety Notes | The full set of themed operating & maintenance warnings (tipping, fluids, fuel/fire, handholds, mired tractor, ROPS, etc.) |
+| Safety While Operating Loader Attachments | Loader rules — trained operator over 18, never lift people, stability cautions |
+| Safety From Lightning Strike | DANGER-level: on thunder/lightning, shut down and shelter in a sturdy building |
+| Noise & Vibration Levels | Operator-ear < 86 dB, bystander < 85 dB, whole-body vibration < 1.25 m/s² |
+| Safety Warning & General Information Labels on Tractor | The six on-tractor safety decals and their locations |
 
 ### [Chapter 3 — Instruments & Controls](references/03_INSTRUMENTS_AND_CONTROLS.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 3.1 Tractor Controls | 38 |
-| 3.2 Instrument Panel | 39 |
-| 3.2.1 Park Brake Indicator | 40 |
-| 3.2.2 Battery Charge Indicator | 40 |
-| 3.2.3 Air Cleaner Clogging Indicator | 40 |
-| 3.2.4 Left Turn Indicator | 40 |
-| 3.2.5 Engine RPM cum Hour Meter | 41 |
-| 3.2.6 Right Turn Indicator | 41 |
-| 3.2.7 High Beam Indicator | 41 |
-| 3.2.8 Cold Start Indicator | 41 |
-| 3.2.9 Oil Pressure Indicator | 42 |
-| 3.2.10 PTO Monitor Lamp | 42 |
-| 3.2.11 Turn Trailer Lamp | 42 |
-| 3.2.12 Temperature Gauge | 42 |
-| 3.2.13 Fuel Gauge | 43 |
-| 3.2.14 Work Lamp Indicator | 43 |
-| 3.3 Dashboard Controls | 44 |
-| 3.4 Fuse Box | 46 |
-| 3.5 Battery | 46 |
-| 3.6 Seven Pin Socket | 47 |
-| 3.7 Tractor Light | 48 |
-| 3.8 Registration Plate | 48 |
-| 3.9 Driver's Seat | 49 |
+| 3.1 Tractor Controls | Cabin layout of the 15 numbered controls (steering, pedals, levers) |
+| 3.2 Instrument Panel | Layout and icon legend of the 14 dashboard indicators/gauges |
+| 3.2.1 Park Brake Indicator | Glows when the parking brake is engaged |
+| 3.2.2 Battery Charge Indicator | Charging-system status lamp; glowing while running = charging fault |
+| 3.2.3 Air Cleaner Clogging Indicator | Glows when the air filter is choked — clean the element |
+| 3.2.4 Left Turn Indicator | Left turn-signal tell-tale |
+| 3.2.5 Engine RPM cum Hour Meter | Tachometer plus running-hours meter, with safe-operating zone |
+| 3.2.6 Right Turn Indicator | Right turn-signal tell-tale |
+| 3.2.7 High Beam Indicator | Glows with headlamp high beam |
+| 3.2.8 Cold Start Indicator | Glow-plug pre-heat lamp for cold starting |
+| 3.2.9 Oil Pressure Indicator | Low engine-oil-pressure warning — stop engine |
+| 3.2.10 PTO Monitor Lamp | Glows when the PTO is engaged |
+| 3.2.11 Turn Trailer Lamp | Trailer turn-indicator tell-tale |
+| 3.2.12 Temperature Gauge | Coolant temperature (green normal / red overheating) |
+| 3.2.13 Fuel Gauge | Tank level (red/amber/green); keep at least 6 L |
+| 3.2.14 Work Lamp Indicator | Work-lamp-on tell-tale |
+| 3.3 Dashboard Controls | Hazard switch, combination switch, ignition-key positions, beacon switch, PTO external switch |
+| 3.4 Fuse Box | Fuse-box location (upper radiator bracket) |
+| 3.5 Battery | Battery location and the cut-off switch |
+| 3.6 Seven Pin Socket | Trailer socket pin-out (7 pins with wire colours) |
+| 3.7 Tractor Light | Head, tail, beacon, plough and plate lights |
+| 3.8 Registration Plate | Number-plate mounting and its lamp |
+| 3.9 Driver's Seat | Seat adjustments — slide, suspension, height, weight (50–120 kgf), belt, armrest |
 
 ### [Chapter 4 — Operation](references/04_OPERATION.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 4.1 Operator Presence Control (OPC) | 50 |
-| 4.2 Boarding & Leaving the Tractor | 51 |
-| 4.3 Engine | 51 |
-| 4.3.1 Starting the Engine | 51 |
-| 4.3.2 Cold Weather Starting | 51 |
-| 4.3.3 Running in | 52 |
-| 4.3.4 Turning off the Engine | 52 |
-| 4.3.5 Stopping and Parking | 52 |
-| 4.4 Under Hood Muffler | 53 |
-| 4.5 Opening the Bonnet | 53 |
-| 4.6 Accelerator Pedal | 53 |
-| 4.7 Clutch Pedal | 54 |
-| 4.8 2WD / 4WD Lever | 54 |
-| 4.9 Hand Throttle Lever | 54 |
-| 4.10 Gear Shifter Lever | 54 |
-| 4.11 Shuttle Lever | 55 |
-| 4.12 Power Take off (PTO) | 55 |
-| 4.13 Hydraulic Coupling Devices | 59 |
-| 4.14 Response Valve (Transport Lock) | 59 |
-| 4.15 Speed Range Selector (H-M-L) Lever | 59 |
-| 4.16 Differential Lock Pedal | 59 |
-| 4.17 Power Steering | 60 |
-| 4.18 Service Brake | 60 |
-| 4.19 Parking Brake | 60 |
-| 4.20 Speed Chart | 61 |
-| 4.21 Wheels and Tyres | 62 |
-| 4.22 Check Wheel Nut Bolt | 63 |
-| 4.23 Ballasting the Front Axle | 64 |
-| 4.24 Hydraulic Control Lever | 64 |
-| 4.25 Three Point Linkage | 64 |
-| 4.26 Safety Frame: Roll Over Protection Structure (ROPS) | 66 |
+| 4.1 Operator Presence Control (OPC) | Auto-stop safety logic when the operator leaves the seat |
+| 4.2 Boarding & Leaving the Tractor | Mount from the LH footrest using three-point contact |
+| 4.3 Engine | Engine operation overview |
+| 4.3.1 Starting the Engine | Normal start sequence and pre-start checks (gear/range neutral, clutch pressed) |
+| 4.3.2 Cold Weather Starting | Glow-plug heat start below 0 °C; never use ether/starting fluid |
+| 4.3.3 Running in | Break-in precautions for a new tractor |
+| 4.3.4 Turning off the Engine | Correct shutdown procedure |
+| 4.3.5 Stopping and Parking | Stopping and parking the tractor safely |
+| 4.4 Under Hood Muffler | Hot under-bonnet muffler — burn caution |
+| 4.5 Opening the Bonnet | Bonnet release knob and gas strut |
+| 4.6 Accelerator Pedal | Foot throttle operation |
+| 4.7 Clutch Pedal | Clutch pedal operation |
+| 4.8 2WD / 4WD Lever | Engaging/disengaging four-wheel drive |
+| 4.9 Hand Throttle Lever | Hand-set engine speed |
+| 4.10 Gear Shifter Lever | Three-position main gear selector |
+| 4.11 Shuttle Lever | Forward / Neutral / Reverse direction control |
+| 4.12 Power Take off (PTO) | 540/540E PTO engagement, shaft guards, driveline, external control switch |
+| 4.13 Hydraulic Coupling Devices | Quick-release couplers and DCV lever for remote cylinders |
+| 4.14 Response Valve (Transport Lock) | Locks the implement and sets its lowering speed for transport |
+| 4.15 Speed Range Selector (H-M-L) Lever | High/Mid/Low range — combines with gears for 9 speeds |
+| 4.16 Differential Lock Pedal | Engage diff-lock (straight only; disengage on turns, ≤ 6 km/h) |
+| 4.17 Power Steering | Hydrostatic steering; inoperative when the engine is off |
+| 4.18 Service Brake | Foot service brakes (independent left/right) |
+| 4.19 Parking Brake | Hand parking-brake lever |
+| 4.20 Speed Chart | Travel speeds per gear/range across the rear-tyre options |
+| 4.21 Wheels and Tyres | Reading tyre markings; recommended field/haulage pressures |
+| 4.22 Check Wheel Nut Bolt | Wheel-nut torques (rear 130 / front 72 Nm) and load-carrying capacity |
+| 4.23 Ballasting the Front Axle | Front weights (2 × 15 kg) for stability and traction |
+| 4.24 Hydraulic Control Lever | Position-control lever for raising/lowering the linkage |
+| 4.25 Three Point Linkage | Top link, lift rods and lower links — setup and levelling |
+| 4.26 Safety Frame: Roll Over Protection Structure (ROPS) | Roll-over frame and seat belt; folding/unfolding procedure |
 
 ### [Chapter 5 — Maintenance](references/05_MAINTENANCE.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 5.1 Maintenance Schedule | 67 |
-| 5.2.1 Fuel Tank Filling | 69 |
-| 5.2.2 Fuel Requisites | 69 |
-| 5.2.3 Fueling | 69 |
-| 5.2.4 Fuel Storage | 69 |
-| 5.3.1 Checking Engine Oil Level | 70 |
-| 5.3.2 Replacement of Oil Filter & Engine Oil | 70 |
-| 5.4 Replacement of Fuel Filter | 71 |
-| 5.5 Air Bleeding of Fuel System | 71 |
-| 5.6 Radiator | 71 |
-| 5.6.1 Coolant Level in Radiator (When Hot) | 71 |
-| 5.6.2 Radiator Draining & Flushing (When cold) | 72 |
-| 5.6.3 Radiator Fins Cleaning | 72 |
-| 5.6.4 Radiator Mesh Cleaning | 72 |
-| 5.6.5 Radiator Cap | 72 |
-| 5.7 Inspection of Hoses | 73 |
-| 5.8 Air Cleaner Maintenance | 73 |
-| 5.9 Clutch Pedal | 74 |
-| 5.10 Brake Pedal Free Play | 74 |
-| 5.11 Brake Pedal | 74 |
-| 5.12 Brake Pedal Free Play | 74 |
-| 5.13 Steering Cylinder Knuckle Joints | 74 |
-| 5.14 Oil Changes in 4WD Front Axle | 75 |
-| 5.15 Oil Changes for Transmission, Rear Final Drives and Power Lift Hydraulic Circuits | 75 |
-| 5.16 Recommended Oil grades & Application range | 76 |
-| 5.16.1 Cleaning of Suction Strainer | 76 |
-| 5.17 General Maintenance of Electrical System | 77 |
-| 5.18 Battery and its Maintenance | 77 |
-| 5.19 Starter Motor | 78 |
-| 5.20 Alternator | 78 |
-| 5.20.1 Checking V-belt | 78 |
-| 5.20.2 Adjusting V-belt tension | 78 |
-| 5.21 Fuses in Fuse Box | 79 |
-| 5.22 Long Idle Period | 80 |
-| 5.23 Greasing Points | 81 |
-| 5.24 Jack Up the Tractor - Lifting Points | 82 |
-| 5.25 Oil and Lubrication Chart | 82 |
+| 5.1 Maintenance Schedule | Full periodic service table (50–1500 h) with R/C/CT/CA/CL/W/G codes |
+| 5.2.1 Fuel Tank Filling | Filling the diesel tank |
+| 5.2.2 Fuel Requisites | Diesel specification (HSD per IS:1460-2000) |
+| 5.2.3 Fueling | Refuelling precautions |
+| 5.2.4 Fuel Storage | Store in black-iron cans only — never galvanized |
+| 5.3.1 Checking Engine Oil Level | Dipstick check (RH side, on level ground) |
+| 5.3.2 Replacement of Oil Filter & Engine Oil | Oil + filter change (4.2 L, SAE 10W40) |
+| 5.4 Replacement of Fuel Filter | Changing the fuel-filter element |
+| 5.5 Air Bleeding of Fuel System | Bleeding air from the fuel lines/FIP |
+| 5.6 Radiator | Cooling-system service overview |
+| 5.6.1 Coolant Level in Radiator (When Hot) | Checking coolant; opening a hot cap safely |
+| 5.6.2 Radiator Draining & Flushing (When cold) | Draining/flushing coolant; antifreeze mix ratios |
+| 5.6.3 Radiator Fins Cleaning | Cleaning the radiator fins |
+| 5.6.4 Radiator Mesh Cleaning | Cleaning the front mesh screen |
+| 5.6.5 Radiator Cap | Use only the genuine pressure cap |
+| 5.7 Inspection of Hoses | Checking hoses for leaks and wear |
+| 5.8 Air Cleaner Maintenance | Clean/replace the air-filter element; intervals and max air pressure |
+| 5.9 Clutch Pedal | Clutch free-play (25–30 mm) |
+| 5.10 Brake Pedal Free Play | Brake free-play specification |
+| 5.11 Brake Pedal | Brake pedal location and operation |
+| 5.12 Brake Pedal Free Play | Adjusting brake free-play (25–30 mm) |
+| 5.13 Steering Cylinder Knuckle Joints | Inspecting/greasing the steering knuckle joints |
+| 5.14 Oil Changes in 4WD Front Axle | Front-axle oil change (2.7 L EP-80) |
+| 5.15 Oil Changes for Transmission, Rear Final Drives and Power Lift Hydraulic Circuits | Transmission/hydraulic oil change (23 L SAE 80W) |
+| 5.16 Recommended Oil grades & Application range | Lubricant viscosity-vs-temperature chart |
+| 5.16.1 Cleaning of Suction Strainer | Cleaning/replacing the magnetic hydraulic suction strainer |
+| 5.17 General Maintenance of Electrical System | Wiring and connection care |
+| 5.18 Battery and its Maintenance | Electrolyte level/specific gravity, top-up, removal procedure |
+| 5.19 Starter Motor | Starter-motor location and care |
+| 5.20 Alternator | Charging alternator overview |
+| 5.20.1 Checking V-belt | Inspecting the V-belt condition |
+| 5.20.2 Adjusting V-belt tension | Setting belt deflection (10–12 mm) |
+| 5.21 Fuses in Fuse Box | Fuse ratings and protected circuits; relay layout |
+| 5.22 Long Idle Period | Precautions for long-term storage/lay-up |
+| 5.23 Greasing Points | The 10 grease points and their schedule |
+| 5.24 Jack Up the Tractor - Lifting Points | Approved jacking and support points |
+| 5.25 Oil and Lubrication Chart | Summary of all lubricants, grades and capacities |
 
 ### [Chapter 6 — Technical Specifications](references/06_TECHNICAL_SPECIFICATIONS.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| 6.1 Technical Specifications | 83 |
-| 6.2 Matching Implements | 84 |
+| 6.1 Technical Specifications | Full datasheet — engine, transmission, hydraulics, brakes, steering, PTO, tyres, dimensions, weight |
+| 6.2 Matching Implements | Recommended implement types/sizes and their operating ERPM |
 
 ### [Chapter 7 — Do's and Don'ts](references/07_DOS_AND_DONTS.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| Chapter 7: Do's and Don'ts | 86 |
+| Chapter 7: Do's and Don'ts | System-by-system do's & don'ts plus fuel-saving, oil-saving and performance guidance |
 
 ### [Chapter 8 — Troubleshooting, Service Record & Alphabetical Index](references/08_TROUBLESHOOTING_AND_INDEX.md)
 
-| Section | Page |
+| Section | What it covers |
 |---|---|
-| Troubleshooting | 89 |
-| Service Record | 91 |
-| Alphabetical Index | 92 |
+| Troubleshooting | Problem → Cause → Remedy tables (engine, hydraulic, brakes, electrical, fuel consumption) |
+| Service Record | Blank dealer service-log fields for recording services |
+| Alphabetical Index | The manual's A–Z topic index |
