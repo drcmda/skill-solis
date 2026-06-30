@@ -19,163 +19,6 @@ This skill is the complete, navigable knowledge base for **operating, servicing,
 
 ---
 
-## How to Answer (use every time)
-
-1. **Safety first.** If the question touches operation, maintenance, fluids, electrics, or anything near moving parts, lead with the relevant **WARNING / CAUTION / DANGER** from [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md). Never give a procedure that skips a safety step the manual states.
-2. **Find the exact section.** Use the **Topic → Reference index** below to open the right file, then **lead with the manual's exact procedure, values, intervals, torques, and capacities** — quote them precisely, keeping both metric and the manual's imperial conversions where given.
-3. **Cite the location** (chapter + section + page) so the user can verify in the source PDF.
-4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
-5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**
-6. **Engine variants.** Some values differ between the **Stage III** and **Stage V** emission variants (rated rpm, low idle, injection timing). Note the variant when it matters.
-
----
-
-## The Tractor at a Glance
-
-| Item | Value | Detail in |
-|---|---|---|
-| Model / type | Solis 26 — tractor with **9F + 9R** speed transmission | Ch.1 / Ch.6 |
-| Engine | **Mitsubishi MVS3L2**, 3-cyl, 4-stroke, naturally aspirated, water-cooled, OHV diesel | Ch.6 |
-| Displacement / bore × stroke | **1318 cc**, 78 × 92 mm, compression **22:1**, firing order **1-3-2** | Ch.6 |
-| Rated engine speed | **2700 rpm** (Stage III) / **2500 rpm** (Stage V); low idle ~1000 rpm | Ch.6 |
-| Transmission | Constant-mesh / synchromesh; single mechanical clutch; 9F+9R (gear × H-M-L) | Ch.4 / Ch.6 |
-| PTO | **Type-I**, 540 @ 2565 ERPM and **540E** @ 2083 ERPM (rear) | Ch.4 / Ch.6 |
-| Hydraulic lift capacity | **600 kg** (1322.8 lb); position-control 3-point linkage | Ch.4 / Ch.6 |
-| Brakes / steering | Oil-immersed brakes; hydrostatic **power steering** | Ch.4 / Ch.6 |
-| Turning circle (min) | **5.14 m** LHS / **5.09 m** RHS | Ch.6 |
-| Tyres | Front **6.00 × 12**, Rear **8.30 × 20** | Ch.4 / Ch.6 |
-| Dimensions | Wheelbase 1570 mm · length 2945 mm · width 1245 mm · height-to-ROPS 2442 mm · ground clearance 240 mm | Ch.6 |
-| Weight (with driver) | **1120 kg** (front 425 kg / rear 580 kg) | Ch.6 |
-
-> **NOTE:** Per the manual, "all dimensions & specifications are for guidance purpose" and ITL may modify without notice. Always confirm against the statutory plate and your dealer for your exact unit.
-
----
-
-## Fluids, Capacities & Grades (quick reference)
-
-| System | Capacity | Grade / spec | Change interval |
-|---|---|---|---|
-| Engine oil | **4.2 L** (1.11 US gal) | SAE **10W40** (15W40 in hot climate) | First **50 h**, then **every 250 h** (R every service) |
-| Transmission / hydraulic | **23 L** (4.75 US gal) | SAE **80W** | **1000 h** |
-| 4WD front axle | **2.7 L** (0.71 US gal) | **EP-80** | **50 / 500 / 1000 / 1500 h** |
-| Fuel (HSD diesel) | tank **29 ± 3 L** (7.66 US gal); keep ≥ 6 L to avoid air-lock | HSD per **IS:1460-2000**, density 0.840 g/cm³ | — |
-| Coolant | radiator + reserve to FULL line | antifreeze **Glysantin G40** (mix 10–60% by temperature) | flush ~yearly / 1000 h |
-
-> Fuel storage: use **black iron cans only — never galvanized** (it reacts and spoils the injection pump/injectors). No diesel-alcohol mixtures. Fill at end of day's work to limit condensation. Full lubricant viscosity-vs-temperature chart and the oil & lubrication chart are in **Ch.5**.
-
----
-
-## Service Intervals (the short version)
-
-Service points: **50 h** (first) → **250 → 500 → 750 → 1000 → 1250 → 1500 h**, then repeat every **250 h**.
-Schedule legend: **R** Replace · **C** Check · **CT** Check & Tight · **CA** Check & Adjust · **CL** Clean · **W** Wash · **G** Grease.
-
-| Task | Interval |
-|---|---|
-| Engine oil + oil filter | **R every service** (first 50 h, then 250 h) |
-| Air cleaner element | Clean first 50 h, then 250 h / when clog lamp glows; **replace at 750 h** (or after 3 cleanings) |
-| Hydraulic suction strainer | Clean / **replace at 750 h** |
-| Transmission oil | **1000 h** |
-| Front-axle (4WD) oil | **50 / 500 / 1000 / 1500 h** |
-| Fuel tank clean-out | **500 h** |
-| Engine-oil system flush | yearly / **1000 h**, whichever first |
-| Grease all points | per schedule (see 10 points below) |
-
-The **full two-part maintenance schedule table** (every component × every interval) is in [`references/05_MAINTENANCE.md`](references/05_MAINTENANCE.md).
-
----
-
-## Key Torques, Adjustments & Pressures
-
-| Item | Value |
-|---|---|
-| Rear wheel nut torque | **130 Nm** (103 lbf-ft) |
-| Front wheel nut torque | **72 Nm** (53 lbf-ft) |
-| Clutch pedal free play | **25–30 mm** (0.98–1.18 in) |
-| Brake pedal free play | **25–30 mm** (0.98–1.18 in) |
-| Alternator V-belt deflection | **10–12 mm** at ~98 N / 10 kgf push midway (Ch.7 states "≤ 10 mm") |
-| Tyre pressure — **field** | Front **20–22 PSI** · Rear **14–16 PSI** |
-| Tyre pressure — **haulage** | Front **22–24 PSI** · Rear **16–18 PSI** |
-| Front ballast (default / max coupling load) | 2 × 15 kg = **30 kg** default; max vertical load on coupling/rear hitch **248 kg-f** |
-| Differential lock | use straight only; **disengage before turning**; never engage above **6 km/h** on turns |
-| Greasing points (10) | Clutch actuator shaft ×2, brake pedal shaft ×2, lift rods ×2, front axle pivot pin ×1, power-steering cylinder ×1, tie rod ×2 |
-
----
-
-## Instrument & Warning Lights (operator quick guide)
-
-| Indicator | When it glows | Action |
-|---|---|---|
-| **Battery charge** | With ignition ON / engine off = normal. **Glows while running = charging fault** | Stop and get charging system checked |
-| **Engine oil pressure** | Low oil pressure | Stop engine immediately; check oil level/system |
-| **Air cleaner clogging** | Filter choked | Clean air cleaner element with compressed air |
-| **Coolant temperature gauge** | RED = overheating (GREEN = normal) | Reduce load; **never open a hot radiator cap** |
-| **Fuel gauge** | RED zone = low | Refill (keep ≥ 6 L to avoid air-lock) |
-| **Glow plug / cold start** | Pre-heat active | Wait until it goes off before cranking |
-| **PTO monitor** | PTO engaged | Be aware rotating PTO is live |
-| Park brake / turn / high-beam / work-lamp / trailer | status lamps | informational |
-
-> Ignition key: **1 = OFF** (key removable) · **2 = ON + HEAT** (run position; glow plug heats) · **3 = START** (auto-returns to ON). **Crank max 5–8 s**; wait 5–10 s (1 min after every 2 failed attempts) before re-cranking, or you may damage the starter. **Never use ether / starting fluid.** Full instrument-panel and dashboard detail in [`references/03_INSTRUMENTS_AND_CONTROLS.md`](references/03_INSTRUMENTS_AND_CONTROLS.md).
-
----
-
-## Fuse Box (ratings)
-
-Fuse box is on the upper radiator bracket. **Never fit a higher-rated fuse or a wire in place of a fuse** (fire risk).
-
-| Circuit | A | Circuit | A |
-|---|---|---|---|
-| Horn | 10 | Combi. Switch | 20 |
-| Plough Lamp | 15 | Mobile Charger | 15 |
-| Park | 10 | Battery Aux | 15 |
-| Safety Controller | 20 | Revolving Light | 10 |
-| LO Beam | 15 | Flasher | 15 |
-| HI Beam | 15 | Brake | 15 |
-| IGN. Aux | 15 | Aux.1 | 10 |
-
-Relays (5-pin, terminals 30/85/86/87/87A): **PTO Auto, OPC, OPC Switch, Engine Stop, Aux. Start**. Full box layout + diagram in **Ch.5 §5.22**.
-
----
-
-## Safety Essentials
-
-**Signal-word hierarchy** (know which is which when quoting the manual):
-
-| Word | Meaning |
-|---|---|
-| **DANGER** | Will result in death / very serious injury |
-| **WARNING** | Could result in death / very serious injury |
-| **CAUTION** | May result in minor injury |
-| **IMPORTANT** | Property / equipment damage |
-| **NOTE** | Useful information |
-
-- **OPC (Operator Presence Control):** leave the seat with PTO ON and the engine **auto-stops in ~5–7 s**; restart needs all levers neutral + brake pressed.
-- **ROPS + seat belt:** wear the belt **only with ROPS up and locked**; never with ROPS folded. A damaged ROPS must be **replaced, not repaired**. Never weld/drill/bend it; never hitch a pull-chain to it (back-flip risk) — **pull only from the drawbar**.
-- **Mount/dismount** from the **left** using three-point contact; never from a moving tractor.
-- **Towing a disabled tractor:** never faster than **10 km/h**, with someone steering and braking it.
-- **Battery acid:** flush skin with water, eyes 10–15 min, get medical help; never add water to electrolyte.
-- **Hot radiator:** never remove the cap hot — open to the safety catch (~⅓ turn) first.
-- **Fire (PASS):** Pull, Aim low, Squeeze, Sweep. At the first sign of fire, get off and stay clear.
-- **Lightning = DANGER:** hear thunder → shut down and move to a sturdy building.
-- Noise at operator's ear **< 86 dB**; vibration **< 1.25 m/s²**.
-
-Full warnings, PPE list, all themed safety notes, and the six on-tractor **safety decal locations** are in [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md).
-
----
-
-## Identification (for parts & service)
-
-Always quote **Chassis No.** and **Engine No.** when ordering parts or contacting the dealer.
-
-- **Chassis serial number:** punched on the **right side of the front axle bracket**; also engraved on the statutory plate.
-- **Engine serial number:** stamped on the upper FIP mount, **right side of the cylinder block**; also on the engine rocker-cover sticker.
-- **Statutory plate:** on the **left-hand fender** (chassis no., permissible masses, towable-load matrix).
-- **ROPS certificate plate:** riveted on the ROPS (EEC type-approval, ROPS serial, model).
-
-Directional convention used throughout the manual: **Left/Right** = as seated facing forward; **Front** = radiator end; **Rear** = drawbar end.
-
----
-
 ## References
 
 Each chapter of the manual is a single self-contained reference. Open the one that matches the question.
@@ -204,7 +47,7 @@ Each chapter of the manual is a single self-contained reference. Open the one th
 | Best-practice tips, what NOT to do, fuel/oil saving | **07** |
 | Something is wrong / won't work / diagnosing a fault; service log | **08** |
 
-> When a value appears in more than one place (e.g. service intervals in **05** and **07**, specs in **06** and the at-a-glance table above), treat **Ch.5 / Ch.6** as authoritative and reconcile to them.
+> When a value appears in more than one place (e.g. service intervals in **05** and **07**, specs in **06** and the *Tractor at a Glance* table), treat **Ch.5 / Ch.6** as authoritative and reconcile to them.
 
 ---
 
@@ -367,3 +210,160 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 | Troubleshooting | Problem → Cause → Remedy tables (engine, hydraulic, brakes, electrical, fuel consumption) |
 | Service Record | Blank dealer service-log fields for recording services |
 | Alphabetical Index | The manual's A–Z topic index |
+
+---
+
+## How to Answer (use every time)
+
+1. **Safety first.** If the question touches operation, maintenance, fluids, electrics, or anything near moving parts, lead with the relevant **WARNING / CAUTION / DANGER** from [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md). Never give a procedure that skips a safety step the manual states.
+2. **Find the exact section.** Use the **Topic → Reference index** above to open the right file, then **lead with the manual's exact procedure, values, intervals, torques, and capacities** — quote them precisely, keeping both metric and the manual's imperial conversions where given.
+3. **Cite the location** (chapter + section + page) so the user can verify in the source PDF.
+4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
+5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**
+6. **Engine variants.** Some values differ between the **Stage III** and **Stage V** emission variants (rated rpm, low idle, injection timing). Note the variant when it matters.
+
+---
+
+## The Tractor at a Glance
+
+| Item | Value | Detail in |
+|---|---|---|
+| Model / type | Solis 26 — tractor with **9F + 9R** speed transmission | Ch.1 / Ch.6 |
+| Engine | **Mitsubishi MVS3L2**, 3-cyl, 4-stroke, naturally aspirated, water-cooled, OHV diesel | Ch.6 |
+| Displacement / bore × stroke | **1318 cc**, 78 × 92 mm, compression **22:1**, firing order **1-3-2** | Ch.6 |
+| Rated engine speed | **2700 rpm** (Stage III) / **2500 rpm** (Stage V); low idle ~1000 rpm | Ch.6 |
+| Transmission | Constant-mesh / synchromesh; single mechanical clutch; 9F+9R (gear × H-M-L) | Ch.4 / Ch.6 |
+| PTO | **Type-I**, 540 @ 2565 ERPM and **540E** @ 2083 ERPM (rear) | Ch.4 / Ch.6 |
+| Hydraulic lift capacity | **600 kg** (1322.8 lb); position-control 3-point linkage | Ch.4 / Ch.6 |
+| Brakes / steering | Oil-immersed brakes; hydrostatic **power steering** | Ch.4 / Ch.6 |
+| Turning circle (min) | **5.14 m** LHS / **5.09 m** RHS | Ch.6 |
+| Tyres | Front **6.00 × 12**, Rear **8.30 × 20** | Ch.4 / Ch.6 |
+| Dimensions | Wheelbase 1570 mm · length 2945 mm · width 1245 mm · height-to-ROPS 2442 mm · ground clearance 240 mm | Ch.6 |
+| Weight (with driver) | **1120 kg** (front 425 kg / rear 580 kg) | Ch.6 |
+
+> **NOTE:** Per the manual, "all dimensions & specifications are for guidance purpose" and ITL may modify without notice. Always confirm against the statutory plate and your dealer for your exact unit.
+
+---
+
+## Fluids, Capacities & Grades (quick reference)
+
+| System | Capacity | Grade / spec | Change interval |
+|---|---|---|---|
+| Engine oil | **4.2 L** (1.11 US gal) | SAE **10W40** (15W40 in hot climate) | First **50 h**, then **every 250 h** (R every service) |
+| Transmission / hydraulic | **23 L** (4.75 US gal) | SAE **80W** | **1000 h** |
+| 4WD front axle | **2.7 L** (0.71 US gal) | **EP-80** | **50 / 500 / 1000 / 1500 h** |
+| Fuel (HSD diesel) | tank **29 ± 3 L** (7.66 US gal); keep ≥ 6 L to avoid air-lock | HSD per **IS:1460-2000**, density 0.840 g/cm³ | — |
+| Coolant | radiator + reserve to FULL line | antifreeze **Glysantin G40** (mix 10–60% by temperature) | flush ~yearly / 1000 h |
+
+> Fuel storage: use **black iron cans only — never galvanized** (it reacts and spoils the injection pump/injectors). No diesel-alcohol mixtures. Fill at end of day's work to limit condensation. Full lubricant viscosity-vs-temperature chart and the oil & lubrication chart are in **Ch.5**.
+
+---
+
+## Service Intervals (the short version)
+
+Service points: **50 h** (first) → **250 → 500 → 750 → 1000 → 1250 → 1500 h**, then repeat every **250 h**.
+Schedule legend: **R** Replace · **C** Check · **CT** Check & Tight · **CA** Check & Adjust · **CL** Clean · **W** Wash · **G** Grease.
+
+| Task | Interval |
+|---|---|
+| Engine oil + oil filter | **R every service** (first 50 h, then 250 h) |
+| Air cleaner element | Clean first 50 h, then 250 h / when clog lamp glows; **replace at 750 h** (or after 3 cleanings) |
+| Hydraulic suction strainer | Clean / **replace at 750 h** |
+| Transmission oil | **1000 h** |
+| Front-axle (4WD) oil | **50 / 500 / 1000 / 1500 h** |
+| Fuel tank clean-out | **500 h** |
+| Engine-oil system flush | yearly / **1000 h**, whichever first |
+| Grease all points | per schedule (see 10 points below) |
+
+The **full two-part maintenance schedule table** (every component × every interval) is in [`references/05_MAINTENANCE.md`](references/05_MAINTENANCE.md).
+
+---
+
+## Key Torques, Adjustments & Pressures
+
+| Item | Value |
+|---|---|
+| Rear wheel nut torque | **130 Nm** (103 lbf-ft) |
+| Front wheel nut torque | **72 Nm** (53 lbf-ft) |
+| Clutch pedal free play | **25–30 mm** (0.98–1.18 in) |
+| Brake pedal free play | **25–30 mm** (0.98–1.18 in) |
+| Alternator V-belt deflection | **10–12 mm** at ~98 N / 10 kgf push midway (Ch.7 states "≤ 10 mm") |
+| Tyre pressure — **field** | Front **20–22 PSI** · Rear **14–16 PSI** |
+| Tyre pressure — **haulage** | Front **22–24 PSI** · Rear **16–18 PSI** |
+| Front ballast (default / max coupling load) | 2 × 15 kg = **30 kg** default; max vertical load on coupling/rear hitch **248 kg-f** |
+| Differential lock | use straight only; **disengage before turning**; never engage above **6 km/h** on turns |
+| Greasing points (10) | Clutch actuator shaft ×2, brake pedal shaft ×2, lift rods ×2, front axle pivot pin ×1, power-steering cylinder ×1, tie rod ×2 |
+
+---
+
+## Instrument & Warning Lights (operator quick guide)
+
+| Indicator | When it glows | Action |
+|---|---|---|
+| **Battery charge** | With ignition ON / engine off = normal. **Glows while running = charging fault** | Stop and get charging system checked |
+| **Engine oil pressure** | Low oil pressure | Stop engine immediately; check oil level/system |
+| **Air cleaner clogging** | Filter choked | Clean air cleaner element with compressed air |
+| **Coolant temperature gauge** | RED = overheating (GREEN = normal) | Reduce load; **never open a hot radiator cap** |
+| **Fuel gauge** | RED zone = low | Refill (keep ≥ 6 L to avoid air-lock) |
+| **Glow plug / cold start** | Pre-heat active | Wait until it goes off before cranking |
+| **PTO monitor** | PTO engaged | Be aware rotating PTO is live |
+| Park brake / turn / high-beam / work-lamp / trailer | status lamps | informational |
+
+> Ignition key: **1 = OFF** (key removable) · **2 = ON + HEAT** (run position; glow plug heats) · **3 = START** (auto-returns to ON). **Crank max 5–8 s**; wait 5–10 s (1 min after every 2 failed attempts) before re-cranking, or you may damage the starter. **Never use ether / starting fluid.** Full instrument-panel and dashboard detail in [`references/03_INSTRUMENTS_AND_CONTROLS.md`](references/03_INSTRUMENTS_AND_CONTROLS.md).
+
+---
+
+## Fuse Box (ratings)
+
+Fuse box is on the upper radiator bracket. **Never fit a higher-rated fuse or a wire in place of a fuse** (fire risk).
+
+| Circuit | A | Circuit | A |
+|---|---|---|---|
+| Horn | 10 | Combi. Switch | 20 |
+| Plough Lamp | 15 | Mobile Charger | 15 |
+| Park | 10 | Battery Aux | 15 |
+| Safety Controller | 20 | Revolving Light | 10 |
+| LO Beam | 15 | Flasher | 15 |
+| HI Beam | 15 | Brake | 15 |
+| IGN. Aux | 15 | Aux.1 | 10 |
+
+Relays (5-pin, terminals 30/85/86/87/87A): **PTO Auto, OPC, OPC Switch, Engine Stop, Aux. Start**. Full box layout + diagram in **Ch.5 §5.22**.
+
+---
+
+## Safety Essentials
+
+**Signal-word hierarchy** (know which is which when quoting the manual):
+
+| Word | Meaning |
+|---|---|
+| **DANGER** | Will result in death / very serious injury |
+| **WARNING** | Could result in death / very serious injury |
+| **CAUTION** | May result in minor injury |
+| **IMPORTANT** | Property / equipment damage |
+| **NOTE** | Useful information |
+
+- **OPC (Operator Presence Control):** leave the seat with PTO ON and the engine **auto-stops in ~5–7 s**; restart needs all levers neutral + brake pressed.
+- **ROPS + seat belt:** wear the belt **only with ROPS up and locked**; never with ROPS folded. A damaged ROPS must be **replaced, not repaired**. Never weld/drill/bend it; never hitch a pull-chain to it (back-flip risk) — **pull only from the drawbar**.
+- **Mount/dismount** from the **left** using three-point contact; never from a moving tractor.
+- **Towing a disabled tractor:** never faster than **10 km/h**, with someone steering and braking it.
+- **Battery acid:** flush skin with water, eyes 10–15 min, get medical help; never add water to electrolyte.
+- **Hot radiator:** never remove the cap hot — open to the safety catch (~⅓ turn) first.
+- **Fire (PASS):** Pull, Aim low, Squeeze, Sweep. At the first sign of fire, get off and stay clear.
+- **Lightning = DANGER:** hear thunder → shut down and move to a sturdy building.
+- Noise at operator's ear **< 86 dB**; vibration **< 1.25 m/s²**.
+
+Full warnings, PPE list, all themed safety notes, and the six on-tractor **safety decal locations** are in [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md).
+
+---
+
+## Identification (for parts & service)
+
+Always quote **Chassis No.** and **Engine No.** when ordering parts or contacting the dealer.
+
+- **Chassis serial number:** punched on the **right side of the front axle bracket**; also engraved on the statutory plate.
+- **Engine serial number:** stamped on the upper FIP mount, **right side of the cylinder block**; also on the engine rocker-cover sticker.
+- **Statutory plate:** on the **left-hand fender** (chassis no., permissible masses, towable-load matrix).
+- **ROPS certificate plate:** riveted on the ROPS (EEC type-approval, ROPS serial, model).
+
+Directional convention used throughout the manual: **Left/Right** = as seated facing forward; **Front** = radiator end; **Rear** = drawbar end.
