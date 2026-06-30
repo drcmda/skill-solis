@@ -1,13 +1,13 @@
 ---
 name: solis-26-tractor
-description: Use this skill for any question about the Solis 26 tractor (International Tractors Limited / Sonalika; 26 HP-class, 9+9 speed transmission, Mitsubishi diesel) — operation, starting/cold-start, controls & instruments, maintenance schedules, fluids/oils/coolant and capacities, lubrication & greasing, fuses & electrical, PTO, hydraulics & 3-point linkage, ROPS, tyres & ballasting, troubleshooting/fault diagnosis, technical specifications, matching implements, warranty, and safety. Based on the official Solis 26 Operator Manual (Pub. No. S2618T/J20/28, Aug 2020). Triggers on questions about Solis/Sonalika tractor operation, service intervals, oil/fuel/coolant specs, torque values, warning lights, or any control, warning, or fault on this tractor. Also covers implements used with the tractor — currently the Quicke Multigrab C/CS grab bucket (Greifschaufel), a front-loader attachment by Ålö/Quicke (its operation, safety, lubrication, data and warranty).
+description: Use this skill for any question about the Solis 26 tractor (International Tractors Limited / Sonalika; 26 HP-class, 9+9 speed transmission, Mitsubishi diesel) — operation, starting/cold-start, controls & instruments, maintenance schedules, fluids/oils/coolant and capacities, lubrication & greasing, fuses & electrical, PTO, hydraulics & 3-point linkage, ROPS, tyres & ballasting, troubleshooting/fault diagnosis, technical specifications, matching implements, warranty, and safety. Based on the official Solis 26 Operator Manual (Pub. No. S2618T/J20/28, Aug 2020). Triggers on questions about Solis/Sonalika tractor operation, service intervals, oil/fuel/coolant specs, torque values, warning lights, or any control, warning, or fault on this tractor. Also covers implements used with the tractor — currently the Quicke Multigrab C/CS grab bucket (Greifschaufel), a front-loader attachment by Ålö/Quicke; and the KRPAN 4 EP / 5–8 ERP single-drum forest winch, a PTO / three-point-linkage implement (translated from Czech).
 ---
 
 # Solis 26 Tractor — Operator Manual Skill
 
 **Source:** _Operator Manual — Solis 26 (Tractor with 9+9 Speed Transmission)_, International Tractors Limited (ITL) / Sonalika, Hoshiarpur, India. Publication No. **S2618T/J20/28**, Revision 1, **August 2020**. Part Code **300190111A**. Written in compliance with **ISO 3600**. (92 pages, 8 chapters.)
 
-The source manuals live in [`source/`](source/). Every chapter of each manual has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into **per-equipment folders** under [`references/`](references/): the tractor in [`references/solis-26/`](references/solis-26/), and each attachment/implement such as the grab bucket in [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/). This skill focuses on the **Solis 26 tractor** (the main machine) and references each attachment.
+The source manuals live in [`source/`](source/). Every chapter of each manual has been distilled — text **and** all informative diagrams, icon legends, warning pictograms, and tables converted to text — into **per-equipment folders** under [`references/`](references/): the tractor in [`references/solis-26/`](references/solis-26/), and each attachment/implement such as the grab bucket in [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/) and the forest winch in [`references/krpan-forest-winch/`](references/krpan-forest-winch/). This skill focuses on the **Solis 26 tractor** (the main machine) and references each attachment.
 
 ---
 
@@ -27,6 +27,7 @@ This skill documents the **Solis 26 tractor** (the main machine) plus the **impl
 |---|---|---|---|
 | **Solis 26** | Tractor (9F+9R, Mitsubishi diesel) | **Main machine** — the focus of this skill | [`references/solis-26/`](references/solis-26/) — full index below |
 | **Quicke Multigrab C / CS** | Grab bucket (Greifschaufel) | Front-loader **attachment / implement** | [`references/quicke-multigrab-c/`](references/quicke-multigrab-c/) — [overview](references/quicke-multigrab-c/00_OVERVIEW.md) · summary below |
+| **KRPAN 4 EP / 5–8 ERP** | Single-drum forest winch | **Three-point-linkage / PTO implement** | [`references/krpan-forest-winch/`](references/krpan-forest-winch/) — [overview](references/krpan-forest-winch/00_OVERVIEW.md) · summary below |
 
 > Implements connect to the tractor in different ways depending on the implement — **front loader, three-point linkage, PTO, or drawbar** — and are always operated **through and within the tractor's limits** (total weight & ballast, hydraulics, PTO, lift capacity). For an attachment question, use that attachment's references **together with** the relevant tractor sections (safety, hydraulics/PTO/linkage, technical limits).
 
@@ -230,23 +231,19 @@ Diagnostic tables (**Problem → Cause → Remedy** for engine, hydraulic, brake
 
 ---
 
-## Attachment — Quicke Multigrab C / CS (Grab Bucket)
+## Attachments & Implements
 
-A **grab bucket** (a bucket with a hydraulic grab arm) for compact front loaders with **300–1400 kg** lifting force; models **CS 120 / CM 140 / CL 170**. Manufacturer **Ålö AB (Quicke)**, doc 60081299 E. It is a loader **attachment** — the tractor (base machine) sets the weight/load limits.
+Implements documented in this skill — each has its own folder and an **overview with the full section index**. An implement is operated **through the tractor**, so the tractor's safety rules and relevant limits (weight & ballast, hydraulics, PTO, three-point-linkage capacity) always apply.
 
-**Start at the [Multigrab C / CS overview](references/quicke-multigrab-c/00_OVERVIEW.md)** for identity, key specs, and safety essentials. Chapters:
+### [Quicke Multigrab C / CS — Grab Bucket](references/quicke-multigrab-c/00_OVERVIEW.md)
 
-| Chapter | What it covers |
-|---|---|
-| [01 — Preface](references/quicke-multigrab-c/01_PREFACE.md) | Using the manual; type-plate fields & the Product/Type/Serial-No. callouts to quote to the dealer |
-| [02 — Safety Instructions](references/quicke-multigrab-c/02_SAFETY.md) | Decals; DANGER/WARNING/CAUTION/IMPORTANT/NOTE hierarchy; weight limits; crushing & pressurised-oil hazards |
-| [03 — Description](references/quicke-multigrab-c/03_DESCRIPTION.md) | What it is; bolt-on gables & clamp-edge accessories |
-| [04 — Driving Instructions](references/quicke-multigrab-c/04_DRIVING_INSTRUCTIONS.md) | Designated use; pre-op checks (hoses, collision, locked pins); gripping/moving; parking |
-| [05 — Lubrication & Maintenance](references/quicke-multigrab-c/05_LUBRICATION_AND_MAINTENANCE.md) | 10-hour greasing; extended storage; hydraulic hose/cylinder care |
-| [06 — Data](references/quicke-multigrab-c/06_DATA.md) | Dimensions (A–H), weights, volumes, pressure; loader-model & lifting-capacity recommendation matrices |
-| [07 — Warranty & Conformity](references/quicke-multigrab-c/07_WARRANTY_AND_CONFORMITY.md) | Warranty conditions; EU (2006/42/EC) & UK Declarations of Conformity |
+A **grab bucket** (bucket + hydraulic grab arm) for compact loaders with **300–1400 kg** lifting force; models **CS 120 / CM 140 / CL 170**; **Ålö AB (Quicke)**. Mounts on the **front loader**. Max hydraulic working pressure **175 bar** (pressure-restriction kit above it); grease every **10 operating hours**; hose colour code **(+) red / (−) blue**; never use as a platform or to lift people. → **[overview & 7 chapters](references/quicke-multigrab-c/00_OVERVIEW.md)**
 
-> ⚠️ Max hydraulic working pressure **175 bar** (use a pressure-restriction kit above it); lubricate every **10 operating hours**; never use the implement as a platform or to lift people; hose colour code **(+) red / (−) blue**.
+### [KRPAN 4 EP / 5, 6, 8 ERP — Single-Drum Forest Winch](references/krpan-forest-winch/00_OVERVIEW.md)
+
+A PTO-driven **single-drum forest winch** for skidding timber; pull force **3.5–7.5 t** (models 4 EP / 5 / 6 / 8 ERP); **KRPAN d.o.o.**, translated from Czech. Mounts on the **three-point linkage**, driven by the **PTO at 540 rpm**. Safety-critical (wire rope under tension): max pulling angle **30°**, keep **≥ 3 rope turns on the drum**, **never grease the rope**, and don't use the brake to skid the load. → **[overview & 8 chapters](references/krpan-forest-winch/00_OVERVIEW.md)**
+
+> ⚠️ The winch's English text is a **translation of the Czech manual**; defer to the original / an official edition for legally-binding safety, warranty and CE wording.
 
 ---
 
@@ -258,7 +255,7 @@ A **grab bucket** (a bucket with a hydraulic grab arm) for compact front loaders
 4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
 5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**
 6. **Engine variants.** Some values differ between the **Stage III** and **Stage V** emission variants (rated rpm, low idle, injection timing). Note the variant when it matters.
-7. **Attachments / implements.** For a question about an attachment (e.g. the [Quicke Multigrab C / CS grab bucket](references/quicke-multigrab-c/00_OVERVIEW.md)), use that attachment's references. An implement is operated **through the tractor**, so the tractor's safety rules and its relevant limits — total weight & ballast, hydraulics, PTO, and three-point-linkage lift capacity — also apply; cross-check the matching tractor sections. How an implement attaches depends on the implement (front loader, three-point linkage, PTO, drawbar).
+7. **Attachments / implements.** For a question about an attachment/implement (e.g. the [grab bucket](references/quicke-multigrab-c/00_OVERVIEW.md) or the [forest winch](references/krpan-forest-winch/00_OVERVIEW.md)), use that implement's references. An implement is operated **through the tractor**, so the tractor's safety rules and its relevant limits — total weight & ballast, hydraulics, PTO, and three-point-linkage lift capacity — also apply; cross-check the matching tractor sections. How an implement attaches depends on the implement (front loader, three-point linkage, PTO, drawbar).
 
 ---
 
