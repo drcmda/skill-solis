@@ -19,43 +19,15 @@ This skill is the complete, navigable knowledge base for **operating, servicing,
 
 ---
 
-## References
+## References & Section Index
 
-Each chapter of the manual is a single self-contained reference. Open the one that matches the question.
-
-- [**01 — Introduction & Identification**](references/01_INTRODUCTION_AND_IDENTIFICATION.md) — Front matter (cover, preface, ITL contacts, ISO 3600 compliance) plus how to use the manual, directional terminology, chassis/engine serial-number and statutory/ROPS plate **locations**, and the complete legend of **~30 universal symbols**. *(pp.1–15)*
-- [**02 — Warranty & Safety**](references/02_WARRANTY_AND_SAFETY.md) — Warranty terms, pre-delivery/installation, warranty procedure, parts warning, "if you move", service after warranty; then the **full Safety Notes** — every themed warning/caution/note (PPE, starting, tipping, fluids, fuel/fire, maintenance, ROPS, loader work, lightning, noise/vibration) and the **six safety-decal locations** with pictograms. *(pp.16–37)* — **the safety-critical chapter.**
-- [**03 — Instruments & Controls**](references/03_INSTRUMENTS_AND_CONTROLS.md) — All **15 operator controls** (callout diagram → table), the **14 instrument-panel indicators** (icon legend + descriptions), dashboard switches (hazard, combination, ignition, beacon, PTO external), fuse box, battery & cut-off, **seven-pin trailer socket pin-out**, lights, registration plate, and driver-seat adjustments. *(pp.38–49)*
-- [**04 — Operation**](references/04_OPERATION.md) — OPC logic, engine start/stop & cold-weather start, every primary control (clutch, gears, shuttle, PTO, hydraulics/DCV, response valve, H-M-L, diff-lock, steering, brakes), the **full speed chart**, tyre/ballast/**load-carrying** data, three-point-linkage setup, and foldable-ROPS procedure. *(pp.50–66)*
-- [**05 — Maintenance**](references/05_MAINTENANCE.md) — The **full periodic service schedule** (50–1500 h, R/C/CT/CA/CL codes), fuel/engine-oil/coolant servicing, filters & air cleaner, clutch/brake free-play, axle/transmission oil changes, **lubricant viscosity chart**, electrical (battery, alternator, starter, **full fuse table**), greasing points, lifting points, and long-idle storage — with all capacities, intervals, and tension/torque values. *(pp.67–82)*
-- [**06 — Technical Specifications**](references/06_TECHNICAL_SPECIFICATIONS.md) — The complete **datasheet** (engine, transmission, hydraulics, brakes, steering, PTO, tyres, dimensions, weight) plus the **matching-implements** recommendation table (sizes + operating ERPM for ~10 compatible implements). *(pp.83–85)*
-- [**07 — Do's and Don'ts**](references/07_DOS_AND_DONTS.md) — System-by-system **DO's and DON'Ts** (engine, transmission, clutch, hydraulics, brakes, front axle/steering, tyres, electrical) plus fuel-saving, oil-saving, better-performance and safe-operation guidance, with a consolidated intervals/specs quick table. *(pp.86–88)*
-- [**08 — Troubleshooting, Service Record & Index**](references/08_TROUBLESHOOTING_AND_INDEX.md) — Diagnostic tables (**Problem → Cause → Remedy** for engine, hydraulic, brakes, electrical, fuel consumption), the blank dealer **service-record** log fields, and the manual's full **A–Z alphabetical index** with page numbers. *(pp.89–92)*
-
----
-
-## Topic → Reference Index (where to find it)
-
-| If the question is about… | Go to |
-|---|---|
-| Model, serial numbers, plates, symbols, "what is this tractor" | **01** |
-| Warranty, what's covered, safety rules, warning labels, PPE, ROPS safety | **02** |
-| What a control/lever/switch does, warning lights, gauges, trailer socket, seat | **03** |
-| How to start / drive / stop, PTO, hydraulics, gears, speeds, ballasting, linkage | **04** |
-| Service intervals, oil/fuel/coolant change, filters, greasing, fuses, battery, belt | **05** |
-| Exact specs, dimensions, weights, capacities, compatible implements | **06** |
-| Best-practice tips, what NOT to do, fuel/oil saving | **07** |
-| Something is wrong / won't work / diagnosing a fault; service log | **08** |
-
-> When a value appears in more than one place (e.g. service intervals in **05** and **07**, specs in **06** and the *Tractor at a Glance* table), treat **Ch.5 / Ch.6** as authoritative and reconcile to them.
-
----
-
-## Complete Manual Index (every section, with what it covers)
-
-Every section of the manual, grouped by chapter, with a one-line description to help locate the right topic. Each chapter heading links to its full reference.
+The manual's eight chapters, each a single self-contained reference. For every chapter: **when to use it**, a one-line summary, and an index of its sections with what each one covers.
 
 ### [Chapter 1 — Introduction & Identification](references/01_INTRODUCTION_AND_IDENTIFICATION.md)
+
+**Use when:** Model, serial numbers, plates, symbols, "what is this tractor"
+
+Front matter (cover, preface, ITL contacts, ISO 3600 compliance) plus how to use the manual, directional terminology, chassis/engine serial-number and statutory/ROPS plate **locations**, and the complete legend of **~30 universal symbols**. *(pp.1–15)*
 
 | Section | What it covers |
 |---|---|
@@ -67,6 +39,10 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 | 1.6 Universal Symbols | Legend of the ~30 ISO pictograms used on instruments and controls |
 
 ### [Chapter 2 — Warranty & Safety](references/02_WARRANTY_AND_SAFETY.md)
+
+**Use when:** Warranty, what's covered, safety rules, warning labels, PPE, ROPS safety
+
+Warranty terms, pre-delivery/installation, warranty procedure, parts warning, "if you move", service after warranty; then the **full Safety Notes** — every themed warning/caution/note (PPE, starting, tipping, fluids, fuel/fire, maintenance, ROPS, loader work, lightning, noise/vibration) and the **six safety-decal locations** with pictograms. *(pp.16–37)* — **the safety-critical chapter.**
 
 | Section | What it covers |
 |---|---|
@@ -85,6 +61,10 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 | Safety Warning & General Information Labels on Tractor | The six on-tractor safety decals and their locations |
 
 ### [Chapter 3 — Instruments & Controls](references/03_INSTRUMENTS_AND_CONTROLS.md)
+
+**Use when:** What a control/lever/switch does, warning lights, gauges, trailer socket, seat
+
+All **15 operator controls** (callout diagram → table), the **14 instrument-panel indicators** (icon legend + descriptions), dashboard switches (hazard, combination, ignition, beacon, PTO external), fuse box, battery & cut-off, **seven-pin trailer socket pin-out**, lights, registration plate, and driver-seat adjustments. *(pp.38–49)*
 
 | Section | What it covers |
 |---|---|
@@ -113,6 +93,10 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 | 3.9 Driver's Seat | Seat adjustments — slide, suspension, height, weight (50–120 kgf), belt, armrest |
 
 ### [Chapter 4 — Operation](references/04_OPERATION.md)
+
+**Use when:** How to start / drive / stop, PTO, hydraulics, gears, speeds, ballasting, linkage
+
+OPC logic, engine start/stop & cold-weather start, every primary control (clutch, gears, shuttle, PTO, hydraulics/DCV, response valve, H-M-L, diff-lock, steering, brakes), the **full speed chart**, tyre/ballast/**load-carrying** data, three-point-linkage setup, and foldable-ROPS procedure. *(pp.50–66)*
 
 | Section | What it covers |
 |---|---|
@@ -149,6 +133,10 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 | 4.26 Safety Frame: Roll Over Protection Structure (ROPS) | Roll-over frame and seat belt; folding/unfolding procedure |
 
 ### [Chapter 5 — Maintenance](references/05_MAINTENANCE.md)
+
+**Use when:** Service intervals, oil/fuel/coolant change, filters, greasing, fuses, battery, belt
+
+The **full periodic service schedule** (50–1500 h, R/C/CT/CA/CL codes), fuel/engine-oil/coolant servicing, filters & air cleaner, clutch/brake free-play, axle/transmission oil changes, **lubricant viscosity chart**, electrical (battery, alternator, starter, **full fuse table**), greasing points, lifting points, and long-idle storage — with all capacities, intervals, and tension/torque values. *(pp.67–82)*
 
 | Section | What it covers |
 |---|---|
@@ -192,6 +180,10 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 
 ### [Chapter 6 — Technical Specifications](references/06_TECHNICAL_SPECIFICATIONS.md)
 
+**Use when:** Exact specs, dimensions, weights, capacities, compatible implements
+
+The complete **datasheet** (engine, transmission, hydraulics, brakes, steering, PTO, tyres, dimensions, weight) plus the **matching-implements** recommendation table (sizes + operating ERPM for ~10 compatible implements). *(pp.83–85)*
+
 | Section | What it covers |
 |---|---|
 | 6.1 Technical Specifications | Full datasheet — engine, transmission, hydraulics, brakes, steering, PTO, tyres, dimensions, weight |
@@ -199,11 +191,19 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 
 ### [Chapter 7 — Do's and Don'ts](references/07_DOS_AND_DONTS.md)
 
+**Use when:** Best-practice tips, what NOT to do, fuel/oil saving
+
+System-by-system **DO's and DON'Ts** (engine, transmission, clutch, hydraulics, brakes, front axle/steering, tyres, electrical) plus fuel-saving, oil-saving, better-performance and safe-operation guidance, with a consolidated intervals/specs quick table. *(pp.86–88)*
+
 | Section | What it covers |
 |---|---|
 | Chapter 7: Do's and Don'ts | System-by-system do's & don'ts plus fuel-saving, oil-saving and performance guidance |
 
 ### [Chapter 8 — Troubleshooting, Service Record & Alphabetical Index](references/08_TROUBLESHOOTING_AND_INDEX.md)
+
+**Use when:** Something is wrong / won't work / diagnosing a fault; service log
+
+Diagnostic tables (**Problem → Cause → Remedy** for engine, hydraulic, brakes, electrical, fuel consumption), the blank dealer **service-record** log fields, and the manual's full **A–Z alphabetical index**. *(pp.89–92)*
 
 | Section | What it covers |
 |---|---|
@@ -213,10 +213,14 @@ Every section of the manual, grouped by chapter, with a one-line description to 
 
 ---
 
+> When a value appears in more than one place (e.g. service intervals in Ch.5 and Ch.7, specs in Ch.6 and the *Tractor at a Glance* table), treat **Ch.5 / Ch.6** as authoritative and reconcile to them.
+
+---
+
 ## How to Answer (use every time)
 
 1. **Safety first.** If the question touches operation, maintenance, fluids, electrics, or anything near moving parts, lead with the relevant **WARNING / CAUTION / DANGER** from [`references/02_WARRANTY_AND_SAFETY.md`](references/02_WARRANTY_AND_SAFETY.md). Never give a procedure that skips a safety step the manual states.
-2. **Find the exact section.** Use the **Topic → Reference index** above to open the right file, then **lead with the manual's exact procedure, values, intervals, torques, and capacities** — quote them precisely, keeping both metric and the manual's imperial conversions where given.
+2. **Find the exact section.** Use the **References & Section Index** above to open the right file, then **lead with the manual's exact procedure, values, intervals, torques, and capacities** — quote them precisely, keeping both metric and the manual's imperial conversions where given.
 3. **Cite the location** (chapter + section + page) so the user can verify in the source PDF.
 4. **Operator vs dealer.** Distinguish operator-serviceable tasks from those the manual routes to an **authorized dealer/workshop** (valve clearance, FIP/injection, oil-pressure faults, hydraulic pump/valve, internal repairs). Say which it is.
 5. **Don't invent specs.** If a value isn't in the references, say so — don't guess. Recommend confirming with an ITL/Solis dealer, quoting the **Chassis No. + Engine No.**

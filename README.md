@@ -7,8 +7,8 @@ The full 92-page manual — text **and** all informative diagrams, icon legends,
 ## Structure
 
 ```
-SKILL.md                  Hub: overview, answer protocol, quick-reference tables,
-                          references list, and the complete manual index
+SKILL.md                  Hub: overview, a consolidated reference & section index,
+                          an answer protocol, and quick-reference tables
 references/
 ├── 01_INTRODUCTION_AND_IDENTIFICATION.md   Front matter, serial/plate locations, universal symbols
 ├── 02_WARRANTY_AND_SAFETY.md               Warranty terms + full safety notes & decals
@@ -24,7 +24,7 @@ source/
 
 ## Usage
 
-Start at [`SKILL.md`](SKILL.md). It provides quick-reference tables (specs, fluids, intervals, torques, warning lights, fuses), an answer protocol, and a topic-to-reference index. Open the matching file under [`references/`](references/) for the full chapter detail.
+Start at [`SKILL.md`](SKILL.md). It opens with a consolidated reference & section index (each chapter: when to use it, a summary, and what every section covers), followed by an answer protocol and quick-reference tables (specs, fluids, intervals, torques, warning lights, fuses). Open the matching file under [`references/`](references/) for the full chapter detail.
 
 > ⚠️ This is a community-distilled reference, not an official ITL/Sonalika publication. Always defer to the original manual and an authorized dealer for safety-critical procedures and exact specifications for your specific unit.
 
