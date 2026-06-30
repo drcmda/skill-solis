@@ -11,6 +11,56 @@ The source manuals live in [`source/`](source/). Every chapter of each manual ha
 
 ---
 
+## Project Structure
+
+One tractor (the focus) + three implements. Each piece of equipment is a folder of Markdown references under `references/`; start at an implement's `00_OVERVIEW.md` (the tractor's map is the [References & Section Index](#solis-26-tractor--references--section-index) below).
+
+```text
+references/
+├── solis-26/                               # MAIN — the tractor · Solis 26 (8 chapters)
+│   ├── 01_INTRODUCTION_AND_IDENTIFICATION.md   ID, plates, universal symbols
+│   ├── 02_WARRANTY_AND_SAFETY.md               Warranty + full safety notes & decals
+│   ├── 03_INSTRUMENTS_AND_CONTROLS.md          Controls, instruments, switches, fuses, seat
+│   ├── 04_OPERATION.md                         Start/drive/stop, PTO, hydraulics, speed chart, ROPS
+│   ├── 05_MAINTENANCE.md                       Service schedule, fluids, filters, electrical, greasing
+│   ├── 06_TECHNICAL_SPECIFICATIONS.md          Datasheet + matching implements
+│   ├── 07_DOS_AND_DONTS.md                     System-by-system do's & don'ts
+│   └── 08_TROUBLESHOOTING_AND_INDEX.md         Faults, service record, A–Z index
+├── agromasz-l-103/                         # IMPLEMENT — front loader (front-mounted; approved for Solis 26)
+│   ├── 00_OVERVIEW.md                          Hub: identity, specs, safety, section index
+│   ├── 01_INTRODUCTION_AND_SAFETY.md           Machine ID; EU declaration; intended use; safety + decals
+│   ├── 02_TECHNICAL_DATA_AND_CONSTRUCTION.md   Full spec table; construction diagram
+│   ├── 03_INSTALLATION_AND_CONNECTION.md       Subframe fitting; tractor coupling; tool change
+│   ├── 04_CONTROL_VALVE.md                     Cab joystick: lever moves → loader actions
+│   ├── 05_OPERATION.md                         Pre-op checks; transport; loading technique
+│   ├── 06_MAINTENANCE_LUBRICATION_STORAGE.md   Servicing; grease points; storage; options
+│   ├── 07_TROUBLESHOOTING_AND_RISK.md          Fault → cause → remedy; residual risk
+│   └── 08_SPARE_PARTS_CATALOG.md               Exploded drawings → parts tables
+├── quicke-multigrab-c/                     # IMPLEMENT — grab bucket (mounts on a front loader)
+│   ├── 00_OVERVIEW.md                          Hub: identity, key specs, safety, section index
+│   ├── 01_PREFACE.md                           Using the manual; type-plate fields
+│   ├── 02_SAFETY.md                            Decals, signal words, hazards
+│   ├── 03_DESCRIPTION.md                       What it is; bolt-on accessories
+│   ├── 04_DRIVING_INSTRUCTIONS.md              Designated use, pre-op checks, parking
+│   ├── 05_LUBRICATION_AND_MAINTENANCE.md       Greasing, storage, hydraulics
+│   ├── 06_DATA.md                              Dimensions, weights, recommendation matrices
+│   └── 07_WARRANTY_AND_CONFORMITY.md           Warranty; EU/UK Declarations of Conformity
+└── krpan-forest-winch/                     # IMPLEMENT — forest winch (3-point linkage + PTO)
+    ├── 00_OVERVIEW.md                          Hub: identity, specs, safety, section index
+    ├── 01_INTRODUCTION_AND_TECHNICAL_DATA.md   Most-important instructions; full spec table
+    ├── 02_SAFETY_SIGNS_AND_SAFE_WORK.md        Decals; safe-work rules; PTO/cardan-shaft setup
+    ├── 03_USE_AND_CABLE_HANDLING.md            Attaching, skidding, wire-rope handling & damage
+    ├── 04_ADJUSTMENT_AND_GUIDE_PULLEY.md       Clutch, pre-brake, brake; lower guide pulley
+    ├── 05_MAINTENANCE.md                       Chain tensioning/lubrication; shaft care; plan
+    ├── 06_FAULTS_AND_TROUBLESHOOTING.md        Improper use; fault → cause → remedy
+    ├── 07_CLEANING_TRANSPORT_STORAGE.md        Cleaning, transport, disconnection, storage
+    └── 08_TORQUE_WARRANTY_CONFORMITY.md        Bolt-torque table; warranty; CE declaration
+
+source/   # original manuals: Solis 26 (EN) · Multigrab C/CS (multi-lang) · KRPAN winch (CZ) · Agromasz loader (DE)
+```
+
+---
+
 ## Overview
 
 The **Solis 26** is a compact ~26 HP utility tractor built by **International Tractors Limited (Sonalika)** in India and sold internationally under the *Solis* brand. It uses a **3-cylinder Mitsubishi diesel** engine, a **9 forward + 9 reverse** constant-mesh transmission (3-speed gear shifter × High/Mid/Low range), oil-immersed brakes, power steering, a 540/540E rear PTO, and a position-controlled 3-point hydraulic linkage (≈600 kg lift). It ships standard with a foldable **ROPS** safety frame and seat belt.
