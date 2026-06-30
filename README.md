@@ -7,6 +7,7 @@ Each source manual — text **and** all informative diagrams, icon legends, warn
 - **Solis 26 tractor** (main) — official Operator Manual, Pub. No. S2618T/J20/28, Aug 2020 (92 pages, 8 chapters).
 - **Quicke Multigrab C / CS** grab bucket — front-loader attachment by Ålö AB (Quicke), doc 60081299 E (English section, 7 chapters).
 - **KRPAN 4 EP / 5, 6, 8 ERP** single-drum forest winch — three-point-linkage / PTO implement by KRPAN d.o.o., **translated from the Czech manual** (rev. 03.02.2025, 8 references).
+- **Agromasz Ł-103U** front loader (300 kg) — front-mounted loader by Zakład Metalowy "Agromasz" (Poland), **explicitly approved for the Solis 26**, **translated from the German manual** (8 references).
 
 ## Structure
 
@@ -23,7 +24,17 @@ references/
 │   ├── 06_TECHNICAL_SPECIFICATIONS.md          Full datasheet + matching implements
 │   ├── 07_DOS_AND_DONTS.md                     System-by-system do's & don'ts
 │   └── 08_TROUBLESHOOTING_AND_INDEX.md         Fault diagnosis, service record, A–Z index
-├── quicke-multigrab-c/                     # IMPLEMENT — grab bucket (front loader)
+├── agromasz-l-103/                         # IMPLEMENT — front loader (front-mounted; for Solis 26)
+│   ├── 00_OVERVIEW.md                          Part hub: identity, specs, safety, section index
+│   ├── 01_INTRODUCTION_AND_SAFETY.md           Machine ID; EU declaration; intended use; safety + decals
+│   ├── 02_TECHNICAL_DATA_AND_CONSTRUCTION.md   Full spec table; construction diagram
+│   ├── 03_INSTALLATION_AND_CONNECTION.md       Subframe fitting; tractor coupling; tool change
+│   ├── 04_CONTROL_VALVE.md                     Cab joystick: lever moves → loader actions
+│   ├── 05_OPERATION.md                         Pre-op checks; transport; loading technique
+│   ├── 06_MAINTENANCE_LUBRICATION_STORAGE.md   Servicing; grease points; storage; options
+│   ├── 07_TROUBLESHOOTING_AND_RISK.md          Fault → cause → remedy; residual risk
+│   └── 08_SPARE_PARTS_CATALOG.md               Exploded drawings → parts tables
+├── quicke-multigrab-c/                     # IMPLEMENT — grab bucket (mounts on a front loader)
 │   ├── 00_OVERVIEW.md                          Part hub: identity, key specs, safety, section index
 │   ├── 01_PREFACE.md                           Using the manual; type-plate fields
 │   ├── 02_SAFETY.md                            Decals, signal words, hazards
@@ -45,7 +56,8 @@ references/
 source/
 ├── Solis-26-99-user-manual.pdf                Tractor manual
 ├── 60081299 E Multigrab C … .pdf              Grab-bucket manual (14 languages)
-└── Návod_k_obsluze_4_EP_5-8_ERP_… .pdf        Forest-winch manual (Czech)
+├── Návod_k_obsluze_4_EP_5-8_ERP_… .pdf        Forest-winch manual (Czech)
+└── Agromasz Frontlader L103.pdf                Front-loader manual (German)
 ```
 
 ## Usage
@@ -56,4 +68,4 @@ Start at [`SKILL.md`](SKILL.md). It opens with the **equipment list**, then the 
 
 ## License
 
-[MIT](LICENSE) — for the distillation/formatting (and the English translation of the winch manual). The underlying manual content is © its respective manufacturers (International Tractors Limited / Sonalika for the Solis 26; Ålö AB / Quicke for the Multigrab C; KRPAN d.o.o. for the forest winch).
+[MIT](LICENSE) — for the distillation/formatting (and the English translations of the winch and front-loader manuals). The underlying manual content is © its respective manufacturers (International Tractors Limited / Sonalika for the Solis 26; Ålö AB / Quicke for the Multigrab C; KRPAN d.o.o. for the forest winch; Zakład Metalowy "Agromasz" for the Ł-103U front loader).
